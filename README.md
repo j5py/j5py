@@ -5,15 +5,11 @@
 
 # j5py
 
-
-
-This identifier comes from `js` and `py`:
-
 - A few years in Data Collection followed by an Information Security bootcamp
-- Continues to improve in `JavaScript` and learns `Python`
-- Currently focused on Web development courses
-
-*\*Origin of the profile picture: Nomenklatür, Fascinated by The Chaos.*
+- Continues to improve in `JavaScript` and started learning `Python`
+- Recently focused on Cloud-native Web development courses
+- Now fully dedicated to my new role as **Customer Success Manager**
+    - I will progressively deepen my knowledge in **AI** (LLM, NLP)
 
 
 
