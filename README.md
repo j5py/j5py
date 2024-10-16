@@ -5,6 +5,8 @@
 
 # j5py
 
+[Start using Gladia for free](https://app.gladia.io/auth/signup) and [visit our blog](https://www.gladia.io/blog).
+
 - A few years in Data Collection followed by an Information Security bootcamp
 - Continues to improve in `JavaScript` and started learning `Python`
 - Recently focused on Cloud-native Web development courses
@@ -24,5 +26,3 @@ This GitHub profile only showcases projects from 2023 onwards. All the languages
 Any repository or link accessible from this GitHub account having a connection with Offensive Cybersecurity is potentially very impactful and should under no circumstances be used outside of a controlled testing environment for the purposes of study and development of skills promoting integrity of Information Systems.
 
 Unless you are a Cybersecurity Professional acting preventively in a legal environment: you could put yourself in a reprehensible and potentially high-risk situation by acting inconsiderately, be humble, **any use engages your own responsibility**.
-
-> On this Milky Way sphere, our only home, Karma and Cobra Effect are bigger hackers than you: do good
