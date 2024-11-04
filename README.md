@@ -1,7 +1,7 @@
 
+
 j5py
 =
-Visit [j5py’s gists](https://gist.github.com/j5py): cheat sheets, study notes and useful codes.
 
 This identifier comes from `js` and `py`:
 
@@ -11,10 +11,10 @@ This identifier comes from `js` and `py`:
 
 *\*Origin of the profile picture: Nomenklatür, Fascinated by The Chaos.*
 
+
 Disclaimer
 -
+
 Any repository or link accessible from this GitHub account having a connection with Offensive Cybersecurity is potentially very impactful and should under no circumstances be used outside of a controlled testing environment for the purposes of study and development of skills promoting integrity of Information Systems.
 
 Unless you are a Cybersecurity Professional acting preventively in a legal environment: you could put yourself in a reprehensible and potentially high-risk situation by acting inconsiderately, be humble, **any use engages your own responsibility**.
-
-> On this Milky Way sphere, our only home, Karma and Cobra Effect are bigger hackers than you: do good
