@@ -281,7 +281,7 @@ As a capstone project, I developed a CV website using Symfony 3, **my very first
 
 Thanks for stopping by!
 
-[LinkedIn Profile](https://www.linkedin.com/in/j5py/) | [Back to Top](#)
+[LinkedIn Profile](https://www.linkedin.com/in/j5py/) | [Back to Top](#j5py)
 
 > _You might be curious about the identifier_ `j5py`_, which draws inspiration from_ `js` _and_ `py` _for JavaScript and Python. As for the profile picture, I appreciate what it conveys; it comes from the album 'Fascinated by The Chaos' by Nomenklatür, which I listened to in the years leading up to my training._
 
