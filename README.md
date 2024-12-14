@@ -83,7 +83,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 > [!TIP]
 > **Keep an eye here as I share my projects and expertise while continuing to learn and grow in my coding journey**.
 >
-> _Below, you'll find a curated overview of my technical journey and projects; however, this profile only showcases repositories from 2023 onwards. All the languages and technologies I encountered during my studies between 2016 and 2018, along with all the programs I wrote between 2018 and 2022 (from web applications to numerous JavaScript snippets integrated into third-party solutions) are not archived here._
+> _Below, you'll find a curated overview of my technical journey and projects; however, my GitHub profile only showcases [repositories from 2023 onwards](https://github.com/j5py?tab=repositories). All the languages and technologies I encountered during my studies between 2016 and 2018, along with all the programs I wrote between 2018 and 2022 (from web applications to numerous JavaScript snippets integrated into third-party solutions) are not archived here._
 
 <br />
 
