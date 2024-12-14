@@ -186,7 +186,7 @@ I followed a comprehensive path by Meta on Coursera while engaging in freelance 
 
 ###### Enhancing My Backend and Cloud Technology Skills, January to April
 
-After reviewing my foundation in Client-side Development, I shifted my focus to Infrastructure Technologies, specifically studying Backend and Cloud Technologies on Coursera with _Get Started with Cloud Native DevOps Agile and NoSQL_, _Developing Back-End Apps with Node.js and Express_, and _Containers with Docker Kubernetes OpenShift_ by IBM, along with NoSQL by MongoDB. I was driven to engage with Cloud-native Development, an essential approach for building scalable applications today.
+After reviewing my foundation in Client-side Development, I shifted my focus to Infrastructure Technologies, specifically studying Backend and Cloud Technologies on Coursera with _Get Started with Cloud Native, DevOps, Agile, and NoSQL_, _Developing Back-End Apps with Node.js and Express_, and _Containers with Docker, Kubernetes & OpenShift_ by IBM, along with NoSQL by MongoDB. I was driven to engage with Cloud-native Development, an essential approach for building scalable applications today.
 
 ###### Building on My Development Expertise After a Focus on Security, January
 
@@ -226,7 +226,7 @@ Given the diversity of environments and the constant evolution of third-party li
 
 ###### TMS, JavaScript, CMP and GDPR Implementation Guide
 
-The intricacies of consent cycles and triggering third-party solutions, along with Google Tag Manager specifics, make implementation complex. Questions were frequent, and **documenting this topic met many expectations to facilitate the adoption of TrustCommander**, the Consent Management Platform, in accordance with CNIL's GDPR requirements. The document _TrustCommander into Google Tag Manager_ **proved useful for many clients, streamlining the work of internal consultants**. I simplified concepts during dedicated sessions when needed, receiving excellent feedback.
+The intricacies of consent cycles and triggering third-party solutions, along with Google Tag Manager specifics, make any implementation complex. Questions were frequent, and **documenting this topic met many expectations to facilitate the adoption of TrustCommander**, the Consent Management Platform, in accordance with CNIL and GDPR requirements. The document _TrustCommander into Google Tag Manager_ **proved useful for many clients, streamlining the work of internal consultants**. I simplified concepts during dedicated sessions when needed, receiving excellent feedback.
 
 ###### Support Response Library
 
@@ -240,11 +240,11 @@ To address the recurrence of topics (routines, common issues, or industry change
 
 ##### Development/CRO for an Agency
 
-The data agency fifty-five, founded by former Google executives, aims to help major players leverage their data. As a Tracking Specialist, **I quickly expanded my role** and was entrusted with projects in Conversion Rate Optimization, requiring Responsive Web Design skills and my expertise in JavaScript. To support my growth, I completed online courses primarily on Google Tag Manager and Google Analytics. I also studied UX to refine my A/B Testing skills and, **thinking about the future, AWS to enhance my strengths as a Web Developer** by exploring EC2, AMI, ELB, EBS, S3, IAM, Route53, and Lambda.
+The data agency fifty-five, founded by former Google Europe executives, aims to help major players leverage their data. As a Tracking Specialist, **I quickly expanded my role** and was entrusted with projects in Conversion Rate Optimization, requiring Responsive Web Design skills and my expertise in JavaScript. To support my growth, I completed online courses primarily on Google Tag Manager and Google Analytics. I also studied UX to refine my A/B Testing skills and, **thinking about the future, AWS to enhance my strengths as a Web Developer** by exploring EC2, AMI, ELB, EBS, S3, IAM, Route53, and Lambda.
 
 ###### Node.js App for Documenting GTM's Added JavaScript Logic
 
-Some logics are sophisticated, and Tag Management Systems are used by profiles not familiar with JavaScript, such as marketing teams. My former manager suggested exploring a **documentation generator to provide detailed information on specific functions**. I delivered a Node.js app coupled with a REST API, using JSDoc to generate documentation about the JavaScript enhancing Google Tag Manager. This involved refactoring the existing code before development to enable the use of Annotations and writing explanatory descriptions. The project was **approved and praised** by the CTO.
+Some logics are sophisticated, and Tag Management Systems are used by profiles not familiar with JavaScript, such as marketing teams. My former manager suggested exploring a **documentation generator to provide detailed information on specific functions**. I delivered a Node.js app coupled with a REST API, using JSDoc to generate documentation about the JavaScript enhancing Google Tag Manager. This involved refactoring the existing code before development to enable the use of Annotations, and also writing explanatory descriptions. The project was **approved and praised** by the CTO.
 
 ###### Car Picker CRO Advanced Personalization Experience
 
@@ -252,7 +252,7 @@ Consulted for a major modification of the Renault France homepage, the agency's 
 
 ###### JavaScript Solutions
 
-Tag Management Systems facilitate the orchestration of third-party solutions by providing an entry point through a container script, but they only cover the most common cases. I offered simple and reliable solutions, along with numerous JavaScript snippets to address various needs.
+Tag Management Systems facilitate the orchestration of third-party solutions by providing an entry point through a container script, but they only cover the most common cases. I offered simple and reliable solutions, with numerous JavaScript snippets to address various needs.
 
 <br />
 <br />
