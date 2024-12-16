@@ -247,7 +247,7 @@ From the first weeks of the bootcamp, I was immediately challenged with critical
 
 ###### Offensive Security Bootcamp, from Early April to End of July
 
-At Jedha Bootcamp, I focused on Kali Linux for Vulnerability Assessments, supported by courses and guidance from instructors who provided a hands-on approach through various labs. The program offered an in-depth exploration of Web and Network Security, equipping students with a solid understanding of Firewalls, VPNs, and Intrusion Detection Systems. It covered Penetration Testing techniques and tools such as Burp Suite, Metasploit, and Wireshark, as well as numerous command-line tools accessible from GitHub. Additionally, I acquired knowledge in Incident Response, Threat Analysis, Forensics, and Open Source Intelligence.
+At Jedha Bootcamp, I focused on Kali Linux for Vulnerability Assessments, supported by courses and guidance from instructors who provided a hands-on approach through various labs. The program offered an in-depth exploration of Web and Network Security, equipping students with a solid understanding of Firewalls, VPNs, and Intrusion Detection Systems. It covered Penetration Testing techniques and tools such as Burp Suite, Nmap, Metasploit, and Wireshark, as well as numerous command-line tools accessible from GitHub. Additionally, I acquired knowledge in Incident Response, Threat Analysis, Forensics, and Open Source Intelligence.
 
 ###### Prior Training about Linux User Essentials, February to March
 
@@ -261,7 +261,7 @@ Having proactively managed administrative tasks to start my training as soon as 
 
 ##### Technical Support for a Publisher
 
-Hired as a Consultant at Commanders Act, which has evolved into a Customer Data Platform, I was offered the opportunity to join Support due to my Frontend and Analytics expertise. I provided guidance on implementation choices, needs analysis, debugging, diagnosis, advice, solution proposals, Responsive Web Development, and processed routine tasks in Account Access Management.
+Hired as a Consultant at Commanders Act, which has evolved into a Customer Data Platform since, I was offered the opportunity to join Support due to my Frontend and Analytics expertise. I provided guidance on implementation choices, needs analysis, debugging, diagnosis, advice, solution proposals, Responsive Web Development, and processed routine tasks in Account Access Management.
 
 ###### JavaScript Solutions
 
