@@ -39,46 +39,17 @@ Sylvain
 
 Having explored different roles across an agency, a publisher, and a startup, I have confirmed a strong preference for primarily technical roles. Evolving from entry-level jobs to my last roles has demonstrated a strong ability to learn. Now, after a rich self-taught journey, I prioritize job stability and aim to grow with a company for our mutual success. I am mainly targeting fully remote positions while recognizing the value of occasional in-person meetings to foster better connections; therefore, I am also open to hybrid opportunities.
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat&logo=google-chrome&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-00796B?style=flat&logo=google-tag-manager&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FBBA00?style=flat&logo=google-analytics&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Jasmine](https://img.shields.io/badge/Jasmine-8C9B9B?style=flat&logo=jasmine&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-25A162?style=flat&logo=api&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-black?style=flat&logo=symfony&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD43B?style=flat&logo=python&logoColor=white)
-![cURL](https://img.shields.io/badge/cURL-2E8B29?style=flat&logo=curl&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-000000?style=flat&logo=http&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4EAA25?style=flat&logo=ssh&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF4E00?style=flat&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=internet-explorer&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
-![CVE](https://img.shields.io/badge/CVE-FF0000?style=flat&logo=security&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Tekton](https://img.shields.io/badge/Tekton-0E4A86?style=flat&logo=tekton&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height: 64px; width: 64px;" />
+</p>
 
 **I'm the right choice for someone who values a curious and lifelong learner**.
 
@@ -209,6 +180,10 @@ Following a period of personal growth and increased self-awareness, I aimed to e
 
 ##### Customer Success for a Startup
 
+![cURL](https://img.shields.io/badge/cURL-02303A?style=flat&logo=curl&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
 From September to November, at a high-growth startup, my expertise was anticipated to support the scale of an ambitious AI-powered speech-to-text API based on Whisper, Gladia. Although my technical abilities were valued, the role primarily demanded immediate leadership expertise, and the scope of client requests was broad across several entry points. This short experience was a valuable lesson; **I realized that my strengths lie more in technical problem-solving than in shining at interpersonal dynamics**. I thrive in environments where I can focus on delivering effective solutions and tackling complex challenges behind the scenes.
 
 ##### Assistant/Intern for a Bootcamp
@@ -221,7 +196,16 @@ In July, I undertook a brief freelance mission as a Teacher Assistant at Jedha B
 
 #### Training 2023-2024
 
+<br />
+
 ##### Cloud-Native Web Solutions 2024
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Jasmine](https://img.shields.io/badge/Jasmine-8C9B9B?style=flat&logo=jasmine&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-0E4A86?style=flat&logo=tekton&logoColor=white)
 
 ###### Continuing My Progression by Completing Advanced Front-End Skills, April to August
 
@@ -235,7 +219,19 @@ After reviewing my foundation in Client-side Development, I shifted my focus to 
 
 Recognizing that Information Security requires extensive expertise across all software, languages, and environments, I considered my interest in Penetration Testing. While I remain stimulated by the field, **I prefer contributing to the development of solutions that have a long-term impact and address specific needs** rather than engaging in the often abstract and complex nature of Vulnerability Assessments. I decided to capitalize on my existing knowledge and pursue **what motivates me the most: writing code and designing efficient logic**. I revisited my fundamentals to solidify them through Coursera with the courses _AJAX for Web Developers_, _Modern JavaScript Iterators and Generators_, and the _Intermediate Web and Front-End Development_ pathway by IBM.
 
+<br />
+
 ##### Information Security 2023
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=internet-explorer&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF4E00?style=flat&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
 
 ###### Deepening Knowledge with Comprehensive Penetration Testing Training, from May
 
@@ -259,6 +255,9 @@ Having proactively managed administrative tasks to start my training as soon as 
 
 #### Employment 2020-2023
 
+![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat&logo=google-chrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ##### Technical Support for a Publisher
 
 Hired as a Consultant at Commanders Act, which has evolved into a Customer Data Platform since, I was offered the opportunity to join Support due to my Frontend and Analytics expertise. I provided guidance on implementation choices, needs analysis, debugging, diagnosis, advice, solution proposals, Responsive Web Development, and processed routine tasks in Account Access Management.
@@ -281,6 +280,15 @@ To address the recurrence of topics (routines, common issues, or industry change
 
 #### Employment 2018-2020
 
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FBBA00?style=flat&logo=google-analytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-00796B?style=flat&logo=google-tag-manager&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-25A162?style=flat&logo=api&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
 ##### Development/CRO for an Agency
 
 The data agency fifty-five, founded by former Google Europe executives, aims to help major players leverage their data. As a Tracking Specialist, **I quickly expanded my role** and was entrusted with projects in Conversion Rate Optimization, requiring Responsive Web Design skills and my expertise in JavaScript. To support my growth, I completed online courses primarily on Google Tag Manager and Google Analytics. I also studied UX to refine my A/B Testing skills and, **thinking about the future, AWS to enhance my strengths as a Web Developer** by exploring EC2, AMI, ELB, EBS, S3, IAM, Route53, and Lambda.
@@ -302,6 +310,15 @@ Tag Management Systems facilitate the orchestration of third-party solutions by 
 
 
 #### Training 2016-2018
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=flat&logo=symfony&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ##### Web Development
 
