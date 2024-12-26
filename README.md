@@ -122,10 +122,12 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 
 
-### Technology Overview (Tabular)
+### A - Technology Overview (Tabular)
 
 
 > _The Client-Side, Server-Side, and Workspace columns aim to simplify categorization, which may make the distribution of tags somewhat arbitrary and open to debate. While complete exhaustiveness was hardly possible, I might have overlooked key concepts or cluttered the table in my attempt to provide a detailed overview of my journey._
+
+<br />
 
 #### Cloud-native Development
 
@@ -182,7 +184,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 
 
-### Relevant Experience (Narrative)
+### B - Relevant Experience (Narrative)
 
 
 > _Highlight the most pertinent milestones, as previously, the same trajectory, but in a more descriptive and insightful way._
