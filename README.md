@@ -169,6 +169,8 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 <br />
 
+| Type | Sujet | Client-Side | Server-Side | Workspace | Contenu | Achevé |
+|------|-------|-------------|-------------|-----------|---------|--------|
 | Work | SaaS Support Response Library for Common Issues to Enhance Continuous Improvement of Data Collection Solutions | `JavaScript` `DevTools` `DOM` `Network` `Location` `LocalOverrides` `localStorage` `cookies` `iframe` `WebView` `TagCommander` `TrustCommander` `WebServicesAPI` `GoogleTagManager` `ThirdPartyAnalytics` | | `macOS` `Zoho` `Jira` `Microsoft365` `Slack` `VisualStudioCode` `Git` `GitHub` | Proprietary | 2022 |
 | Work | Consent Management Platform Integration Guide for GDPR Compliance within a Tag Management System | `TrustCommander` `JavaScript` `WebServicesAPI` `GoogleTagManager` `ThirdPartyAnalytics` | | `macOS` `Zoho` `Jira` `Microsoft365` `Slack` `VisualStudioCode` `GoogleSlides` | Complete PDF of _**TrustCommander into Google Tag Manager**_ under [in/projects](https://www.linkedin.com/in/j5py/details/projects/) | 2022 |
 | Work | Addressing Client Requests in SaaS Technical Support with JavaScript Solutions for Data Collection and Third-Party Integration | `JavaScript` `DevTools` `DOM` `Network` `Location` `LocalOverrides` `localStorage` `cookies` `iframe` `WebView` `TagCommander` `TrustCommander` `WebServicesAPI` `GoogleTagManager` `ThirdPartyAnalytics` | | `macOS` `Zoho` `Jira` `Microsoft365` `Slack` `Atom` | Proprietary | 2021 |
