@@ -71,6 +71,6 @@ Evaluation of system and application security by searching for vulnerabilities, 
 <br />
 <br />
 
-[LinkedIn](https://www.linkedin.com/in/j5py/)
+[Contact me!](https://www.linkedin.com/in/j5py/)
 
 <br />
