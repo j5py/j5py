@@ -14,7 +14,7 @@ Bienvenue sur mon portfolio. Heureux de votre visite !
 
 <br />
 
-:yellow_circle: Vous pourriez apprécier la version `en` de ce document, accessible à [j5py (in English)](https://github.com/j5py/j5py/blob/main/README.md)
+:yellow_circle: Vous pourriez apprécier la version [en (English)](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md) de ce document
 
 :orange_circle: Il est préférable de consulter ce document sur un écran large concernant les tableaux listant mes projets
 
@@ -177,7 +177,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 | Travail | App Node.js Générant la Documentation des Logiques JavaScript intégrées à un Système de Gestion de Balises | `GoogleTagManager` `JavaScript` `Annotations` | `Node.js` `Express` `JSDoc` `RESTAPI` `JSON` | `Windows` `GitBash` `Atom` `GSuite` | Propriétaire | 2019 |
 | Travail | Développement JavaScript en Conversion Rate Optimization via A/B Testing et Expériences Personnalisées | `HTML` `CSS` `MediaQueries` `Flexbox` `JavaScript` `localStorage` `cookies` `GoogleTagManager` `GoogleAnalytics` `GoogleOptimize` `AdobeTarget` | | `Windows` `Atom` `GSuite` | Propriétaire | 2019 |
 | Travail | JavaScript pour Tracking/Collecte de Données, et Consentement Utilisateur | `JavaScript` `DevTools` `DOM` `Network` `cookies` `GoogleTagManager` `GoogleAnalytics` `TagCommander` | | `Windows` `Atom` `GSuite` | Propriétaire | 2019 |
-| Étude | Site CV Multipage PHP/Symfony avec Chat, Jeu et Formulaires | `HTML` `CSS` `jQuery` | `PHP` `Symfony3` `ApacheHTTPServer` `SQL` | `macOS` `Unix` `CLI` `MySQL` `Atom` | Détails et Lien sous [Projet Final avec Symfony](https://github.com/j5py/j5py-fr/blob/main/LISEZMOI.md#projet-final-avec-symfony) | 2018 |
+| Étude | Site CV Multipage PHP/Symfony avec Chat, Jeu et Formulaires | `HTML` `CSS` `jQuery` | `PHP` `Symfony3` `ApacheHTTPServer` `SQL` | `macOS` `Unix` `CLI` `MySQL` `Atom` | Détails et Lien sous [Projet Final avec Symfony](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md#projet-final-avec-symfony) | 2018 |
 
 <br />
 <br />

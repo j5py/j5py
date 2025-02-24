@@ -34,7 +34,7 @@ Programmation permettant de réunir des informations en vue de suivre les perfor
 
 <br />
 
-[Consultez les détails complets et structurés de mon parcours](https://github.com/j5py/j5py-fr/blob/main/LISEZMOI.md)
+[Consultez les détails complets et structurés de mon parcours](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
 
 <br />
 
@@ -66,7 +66,7 @@ Evaluation of system and application security by searching for vulnerabilities, 
 
 <br />
 
-[Check out the complete and structured details of my background](https://github.com/j5py/j5py-en/blob/main/README.md)
+[Check out the complete and structured details of my background](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
 
 <br />
 

@@ -14,7 +14,7 @@ Welcome to my portfolio. I'm glad you're here!
 
 <br />
 
-:yellow_circle: You could appreciate the `fr-FR` version of this document under [j5py-fr (en français)](https://github.com/j5py/j5py-fr/blob/main/LISEZMOI.md)
+:yellow_circle: You could appreciate the [fr (Français)](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md) version of this document
 
 :orange_circle: It is preferable to view this document on a large screen regarding the tables listing my projects
 
@@ -177,7 +177,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 | Work | Node.js App for Generating Documentation about Tag Management System's Added JavaScript Logic | `GoogleTagManager` `JavaScript` `Annotations` | `Node.js` `Express` `JSDoc` `RESTAPI` `JSON` | `Windows` `GitBash` `Atom` `GSuite` | Proprietary | 2019 |
 | Work | JavaScript Development for Conversion Rate Optimization through A/B Testing and Personalized Experiences | `HTML` `CSS` `MediaQueries` `Flexbox` `JavaScript` `localStorage` `cookies` `GoogleTagManager` `GoogleAnalytics` `GoogleOptimize` `AdobeTarget` | | `Windows` `Atom` `GSuite` | Proprietary | 2019 |
 | Work | JavaScript for Client-Side Data Retrieval, User Consent, and Various Tracking Needs | `JavaScript` `DevTools` `DOM` `Network` `cookies` `GoogleTagManager` `GoogleAnalytics` `TagCommander` | | `Windows` `Atom` `GSuite` | Proprietary | 2019 |
-| Study | PHP/Symfony Multi-Page CV Website with Chat, Game, and Forms | `HTML` `CSS` `jQuery` | `PHP` `Symfony3` `ApacheHTTPServer` `SQL` | `macOS` `Unix` `CLI` `MySQL` `Atom` | Details and Link at [Symfony Final Project](https://github.com/j5py/j5py-en/blob/main/README.md#symfony-final-project) | 2018 |
+| Study | PHP/Symfony Multi-Page CV Website with Chat, Game, and Forms | `HTML` `CSS` `jQuery` | `PHP` `Symfony3` `ApacheHTTPServer` `SQL` | `macOS` `Unix` `CLI` `MySQL` `Atom` | Details and Link at [Symfony Final Project](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md#symfony-final-project) | 2018 |
 
 <br />
 <br />
