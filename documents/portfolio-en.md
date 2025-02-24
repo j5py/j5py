@@ -16,9 +16,9 @@ Welcome to my portfolio. I'm glad you're here!
 
 :yellow_circle: You could appreciate the [fr (Français)](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md) version of this document
 
-:orange_circle: It is preferable to view this document on a large screen regarding the tables listing my projects
+:orange_circle: It's preferable to view this document on a large screen regarding the tables listing my projects
 
-:green_circle: Search for the icon that looks like `☰` in the top right corner to access the **Table of Contents* ([help](https://drive.google.com/file/d/1bRJGQw1VaUHpA4xWQQ_i4--8J4ffavL0/view?usp=drive_link))
+:green_circle: Search for the icon that looks like `☰` in the top right corner to access the **Table of Contents* [(help)](https://drive.google.com/file/d/1bRJGQw1VaUHpA4xWQQ_i4--8J4ffavL0/view?usp=drive_link)
 
 <br />
 <br />
