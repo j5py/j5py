@@ -58,7 +58,7 @@ Programming that allows for gathering information to track performance or identi
 
 ##### Penetration Testing
 
-Evaluation of the security of systems and applications by searching for vulnerabilities, with the aim of preventing potential risks and ensuring that user data is protected.
+Evaluation of system and application security by searching for vulnerabilities, to prevent potential risks and ensure that user data are protected.
 
 <br />
 
