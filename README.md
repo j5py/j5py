@@ -2,6 +2,10 @@
 
 ![Cloud-native Development, Data Collection, Penetration Testing, at linkedin.com/in/j5py](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/Sylvain_Demaimay_Banner_LinkedIn.png)
 
+_You might think there's not much here yet, but look closer—the roots run deep!_
+
+<br />
+
 
 
 ### Sylvain DEMAIMAY, Portfolio
