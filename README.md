@@ -22,9 +22,9 @@ Intervention dans des applications complexes et des plateformes majeures, davant
 
 ##### Collecte de Données
 
-Programmation permettant de réunir des informations en vue de suivre les performances et d’identifier les points d’amélioration, et réalisation de tests de modifications pour optimiser l'expérience des utilisateurs.
+Programmation permettant de réunir des informations en vue de suivre les performances ou d’identifier les points d’amélioration, et réalisation de tests de modification pour optimiser l'expérience des utilisateurs.
 
-##### Test d'Intrusion
+##### Tests d'Intrusion
 
 Évaluation de la sécurité des systèmes et des applications en cherchant des failles, dans le but de prévenir les risques potentiels et de s'assurer que les données des utilisateurs sont protégées.
 
@@ -54,7 +54,7 @@ Involvement in complex applications and major platforms, rather than through pre
 
 ##### Data Collection
 
-Programming that allows for gathering information to track performance and identify areas for improvement, as well as conducting modification tests to optimize the user experience.
+Programming that allows for gathering information to track performance or identify areas for improvement, and conducting modification tests to optimize the user experience.
 
 ##### Penetration Testing
 
