@@ -38,7 +38,7 @@ Programmation permettant de réunir des informations en vue de suivre les perfor
 
 <br />
 
-[Découvrez mes résultats sur AssessFirst pour évaluer mon intégration](https://my.assessfirst.com/public/profile/uxlkcr24-sylvain-demaimay?lang=fr-FR)
+[Découvrez mes résultats AssessFirst pour évaluer ma personnalité et mon intégration](https://my.assessfirst.com/public/profile/uxlkcr24-sylvain-demaimay?lang=fr-FR)
 
 <br />
 
@@ -74,7 +74,7 @@ Evaluation of system and application security by searching for vulnerabilities, 
 
 <br />
 
-[Explore my results on AssessFirst to evaluate my fit](https://my.assessfirst.com/public/profile/uxlkcr24-sylvain-demaimay?lang=en-US)
+[Discover my AssessFirst results to evaluate my personality and integration](https://my.assessfirst.com/public/profile/uxlkcr24-sylvain-demaimay?lang=en-US)
 
 <br />
 
@@ -83,6 +83,6 @@ Evaluation of system and application security by searching for vulnerabilities, 
 <br />
 <br />
 
-[Contact me!](https://www.linkedin.com/in/j5py/)
+[Let's connect! Contactez-moi !](https://www.linkedin.com/in/j5py/)
 
 <br />
