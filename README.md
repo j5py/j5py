@@ -38,6 +38,10 @@ Programmation permettant de réunir des informations en vue de suivre les perfor
 
 <br />
 
+[Découvrez mes résultats sur AssessFirst pour évaluer mon intégration](https://my.assessfirst.com/public/profile/uxlkcr24-sylvain-demaimay?lang=fr-FR)
+
+<br />
+
 </details>
 
 
@@ -67,6 +71,10 @@ Evaluation of system and application security by searching for vulnerabilities, 
 <br />
 
 [Check out the complete and structured details of my background](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
+
+<br />
+
+[Explore my results on AssessFirst to evaluate my fit](https://my.assessfirst.com/public/profile/uxlkcr24-sylvain-demaimay?lang=en-US)
 
 <br />
 
