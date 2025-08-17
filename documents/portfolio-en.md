@@ -18,7 +18,7 @@ Welcome to my portfolio. I'm glad you're here!
 
 :orange_circle: It's preferable to view this document on a large screen regarding the tables listing my projects
 
-:green_circle: Search for the icon that looks like `☰` in the top right corner to access the **Table of Contents* [(help)](https://drive.google.com/file/d/1bRJGQw1VaUHpA4xWQQ_i4--8J4ffavL0/view?usp=drive_link)
+:green_circle: Search for the icon that looks like `☰` in the top right corner to access the **Table of Contents*
 
 <br />
 <br />
