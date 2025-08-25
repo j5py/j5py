@@ -130,6 +130,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 | Type | Focus | Client-Side | Server-Side | Workspace | Content | Done |
 |------|-------|-------------|-------------|-----------|---------|------|
+| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `React` `TypeScript` `Ant Design` `TanStack Query` `ESLint` `Prettier` | `Node.js` `Express` `TypeScript` `Sequelize` `Docker` `Linux` | `Ubuntu` `Nifty` `VisualStudioCode` `GitHub Flow` `Git Flow` `Slack` `GoogleWorkspace` | Proprietary | 2025 |
 | Work | Role Involving Addressing Requests and Issues from Various Client Plans in a High-Growth Startup Running an AI-Powered Speech-to-Text REST API | `React.js` `JSX` `ChakraUI` `Formik` `Yup` `ReactPlayer` `RegularExpressions` `JavaScript` `JSON` `HTTP` `GET` `POST` `DELETE` `Endpoints` `Parameter` `StatusCodes` | `Python` `Curl` `RESTAPI` `Whisper` `ASR` `STT` `LLM` | `macOS` `Slack` `Intercom` `Discord` `Linear` `Notion` `Metabase` `Grafana` `GoogleWorkspace` `VisualStudioCode` `Markdown` `GitHub` | Pre-Employment Test of Technical Skills and Writing on [j5py/gladia-home-assignment](https://github.com/j5py/gladia-home-assignment) with React | 2024 |
 | Study | Improved Development Skills through the Final Project of **Meta**'s _Advanced React_ Course Based on a Mock Portfolio | `JavaScript` `React.js` `JSX` `Components` `Props` `State` `Hooks` `ChakraUI` `Formik` `Yup` | `Node.js` `npm` `localhost` | `Windows` `VisualStudioCode` `GitBash` `GitHub` `Markdown` | [j5py/advanced-react](https://github.com/j5py/advanced-react) App <br /><br /> Certificate under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) | 2024 |
 | Work | Quick Help for Host and VM Issues as a Freelancer Supporting Beginners in Security Training | | | `Windows` `CommandPrompt` `PythonHTTPserver` `VirtualBox` `NetworkBridge` `VM` `GNU/Linux` `wget` `Markdown` | _**File Transfer from a Windows Host to a Linux Virtual Machine**_ guide at [j5py/notes...vm...md](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md) | 2024 |
@@ -186,6 +187,31 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 > _Highlight the most pertinent milestones, as previously, the same trajectory, but in a more descriptive and insightful way._
 
+<br />
+
+#### Employment 2025-2026
+
+##### Full-Stack Web Developer for a Platform
+
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF3E00?style=flat&logo=react-query&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E8?style=flat&logo=sequelize&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+Growing through my journey with the CyberPass platform by Red Alert Labs, a company that offers a holistic approach to IoT security for connected product compliance.
+
+###### First Quarter in a One-Year Fixed-Term Contract
+
+Starting in an environment that was more complex and broader in scope than anything I had previously encountered, which was both expected and challenging. **Working with TypeScript, React, and Node.js required me to consolidate my foundational skills, primarily built on my experience with Vanilla JavaScript**, while adapting to more demanding technologies and workflows.
+
+Rather than independently implementing new solutions, I was tasked with resolving issues in the existing backend and frontend environments, such as error management, model typings, and adherence to code conventions, which required careful attention and a willingness to learn. My efforts included integrating TanStack React Query, troubleshooting the logic of Ant Design tables, and improving language and pagination management, all while navigating merge conflicts and the complexities of collaborative code reviews. The experience also involved tackling advanced challenges in Express object typing, import sorting, and resolving UI and data integrity issues across multiple components—exclusively in code I did not originally create.
+
+In a few simpler tasks requiring basic web integration skills, I aimed to structure project management and its change flow, as well as related quality assessments, to better track progress. I relied on clear communication and analytical thinking to improve resolution times while evolving in a sometimes uncertain context and with occasional guidance.
+
+**This period was characterized by gradual learning, persistent problem-solving**, and a growing understanding of modern web technologies within an evolving platform.
+
+<br />
 <br />
 
 
