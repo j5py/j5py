@@ -198,6 +198,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF3E00?style=flat&logo=react-query&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E8?style=flat&logo=sequelize&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+> _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
 Evolution de mon parcours avec la plateforme CyberPass par Red Alert Labs, une entreprise proposant une approche holistique de la sécurité IoT pour assurer la conformité des produits connectés.
 
@@ -224,6 +225,7 @@ Dans quelques tâches plus simples nécessitant des compétences de base en int�
 ![cURL](https://img.shields.io/badge/cURL-02303A?style=flat&logo=curl&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+> _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
 De septembre à novembre, au sein d'une startup en hyper-croissance, mon expertise était attendue pour supporter l'expansion d'une API ambitieuse de transcription audio, propulsée par l'IA, Gladia. Bien que mes compétences techniques aient été reconnues, le rôle exigeait une expertise immédiate en leadership, et l'étendue des demandes clients était vaste, émanant de multiples points d'entrée. Cette brève expérience fut une leçon importante : **j'ai réalisé que mes forces résident davantage dans la résolution de problèmes techniques que dans l'éclat au sein de dynamiques interpersonnelles**. Je m'épanouis dans des environnements où je peux me concentrer sur la production de solutions efficaces et sur la résolution de défis complexes en arrière-plan.
 
@@ -247,6 +249,7 @@ En juillet, j'ai entrepris une brève mission freelance en tant que Teacher Assi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Tekton](https://img.shields.io/badge/Tekton-0E4A86?style=flat&logo=tekton&logoColor=white)
+> _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
 ###### Poursuite de Mon Évolution en Développement Frontend Avancé, Avril à Août
 
@@ -273,6 +276,7 @@ Reconnaissant que la Sécurité de l'Information nécessite une expertise transv
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF4E00?style=flat&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
+> _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
 ###### Approfondissement des Connaissances avec une Formation Poussée en Test d'Intrusion, à Partir de Mai
 
@@ -298,6 +302,7 @@ Ayant géré de manière proactive les tâches administratives pour commencer ma
 
 ![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat&logo=google-chrome&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+> _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
 ##### Support Technique en SaaS
 
@@ -329,6 +334,7 @@ Face à la récurrence des sujets (routines, problèmes courants ou évolutions 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+> _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
 ##### Développement/CRO en Agence
 
@@ -360,6 +366,7 @@ Les Tag Management Systems facilitent l'orchestration de solutions tierces en fo
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat&logo=symfony&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+> _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
 ##### Développement Web
 

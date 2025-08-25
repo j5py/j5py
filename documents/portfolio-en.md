@@ -198,6 +198,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF3E00?style=flat&logo=react-query&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E8?style=flat&logo=sequelize&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+> _Technologies that were essential and/or new to me at this stage_
 
 Growing through my journey with the CyberPass platform by Red Alert Labs, a company that offers a holistic approach to IoT security for connected product compliance.
 
@@ -224,6 +225,7 @@ Following a period of personal growth and increased self-awareness, I aimed to e
 ![cURL](https://img.shields.io/badge/cURL-02303A?style=flat&logo=curl&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+> _Technologies that were essential and/or new to me at this stage_
 
 From September to November, at a high-growth startup, my expertise was anticipated to support the scale of an ambitious AI-powered speech-to-text API based on Whisper, Gladia. Although my technical abilities were valued, the role primarily demanded immediate leadership expertise, and the scope of client requests was broad across several entry points. This short experience was a valuable lesson; **I realized that my strengths lie more in technical problem-solving than in shining at interpersonal dynamics**. I thrive in environments where I can focus on delivering effective solutions and tackling complex challenges behind the scenes.
 
@@ -247,6 +249,7 @@ In July, I undertook a brief freelance mission as a Teacher Assistant at Jedha B
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Tekton](https://img.shields.io/badge/Tekton-0E4A86?style=flat&logo=tekton&logoColor=white)
+> _Technologies that were essential and/or new to me at this stage_
 
 ###### Continuing My Progression by Completing Advanced Front-End Skills, April to August
 
@@ -273,6 +276,7 @@ Recognizing that Information Security requires extensive expertise across all so
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF4E00?style=flat&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
+> _Technologies that were essential and/or new to me at this stage_
 
 ###### Deepening Knowledge with Comprehensive Penetration Testing Training, from May
 
@@ -298,6 +302,7 @@ Having proactively managed administrative tasks to start my training as soon as 
 
 ![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat&logo=google-chrome&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+> _Technologies that were essential and/or new to me at this stage_
 
 ##### Technical Support for a Publisher
 
@@ -329,6 +334,7 @@ To address the recurrence of topics (routines, common issues, or industry change
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+> _Technologies that were essential and/or new to me at this stage_
 
 ##### Development/CRO for an Agency
 
@@ -360,6 +366,7 @@ Tag Management Systems facilitate the orchestration of third-party solutions by 
 ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat&logo=symfony&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+> _Technologies that were essential and/or new to me at this stage_
 
 ##### Web Development
 
