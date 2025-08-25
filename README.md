@@ -2,7 +2,7 @@
 
 ![Cloud-native Development, Data Collection, Penetration Testing, at linkedin.com/in/j5py](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/Sylvain_Demaimay_Banner.png)
 
-_You might think there's not much here yet, but look closer—the roots run deep!_
+_You might think there's not much here yet, but look closer—the roots run deep, though the journey ahead looks even longer!_
 
 <br />
 
@@ -14,9 +14,11 @@ _You might think there's not much here yet, but look closer—the roots run deep
 
 <br />
 
+[Consultez les détails complets et structurés de mon parcours technique](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
+
 <details>
 
-<summary>Textes en Français</summary>
+<summary>Version simplifiée en français</summary>
 
 <br />
 
@@ -34,21 +36,18 @@ Programmation permettant de réunir des informations en vue de suivre les perfor
 
 <br />
 
-[Consultez les détails complets et structurés de mon parcours technique](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
-
-<br />
-
 </details>
 
 
 
 <br />
+<br />
 
-
+[Check out the complete and structured details of my technical background](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
 
 <details>
 
-<summary>Texts in English</summary>
+<summary>Simplified version in English</summary>
 
 <br />
 
@@ -66,11 +65,8 @@ Evaluation of system and application security by searching for vulnerabilities, 
 
 <br />
 
-[Check out the complete and structured details of my technical background](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
-
-<br />
-
 </details>
 
+<br />
 <br />
 <br />
