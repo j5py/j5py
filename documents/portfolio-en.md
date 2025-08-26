@@ -130,7 +130,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 | Type | Focus | Client-Side | Server-Side | Workspace | Content | Done |
 |------|-------|-------------|-------------|-----------|---------|------|
-| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `React` `TypeScript` `Ant Design` `TanStack Query` `ESLint` `Prettier` | `Node.js` `Express` `TypeScript` `Sequelize` `Docker` `Linux` | `Ubuntu` `Nifty` `VisualStudioCode` `GitHub Flow` `Git Flow` `Slack` `GoogleWorkspace` | Proprietary | 2025 |
+| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `TypeScript` `React.js` `TanStack React Query` `State` `Components` `Ant Design` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `VisualStudioCode` `GitHub Flow` `GitHub Copilot` `Nifty` `GoogleWorkspace` | Proprietary | 2025 |
 | Work | Role Involving Addressing Requests and Issues from Various Client Plans in a High-Growth Startup Running an AI-Powered Speech-to-Text REST API | `React.js` `JSX` `ChakraUI` `Formik` `Yup` `ReactPlayer` `RegularExpressions` `JavaScript` `JSON` `HTTP` `GET` `POST` `DELETE` `Endpoints` `Parameter` `StatusCodes` | `Python` `Curl` `RESTAPI` `Whisper` `ASR` `STT` `LLM` | `macOS` `Slack` `Intercom` `Discord` `Linear` `Notion` `Metabase` `Grafana` `GoogleWorkspace` `VisualStudioCode` `Markdown` `GitHub` | Pre-Employment Test of Technical Skills and Writing on [j5py/gladia-home-assignment](https://github.com/j5py/gladia-home-assignment) with React | 2024 |
 | Study | Improved Development Skills through the Final Project of **Meta**'s _Advanced React_ Course Based on a Mock Portfolio | `JavaScript` `React.js` `JSX` `Components` `Props` `State` `Hooks` `ChakraUI` `Formik` `Yup` | `Node.js` `npm` `localhost` | `Windows` `VisualStudioCode` `GitBash` `GitHub` `Markdown` | [j5py/advanced-react](https://github.com/j5py/advanced-react) App <br /><br /> Certificate under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) | 2024 |
 | Work | Quick Help for Host and VM Issues as a Freelancer Supporting Beginners in Security Training | | | `Windows` `CommandPrompt` `PythonHTTPserver` `VirtualBox` `NetworkBridge` `VM` `GNU/Linux` `wget` `Markdown` | _**File Transfer from a Windows Host to a Linux Virtual Machine**_ guide at [j5py/notes...vm...md](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md) | 2024 |
@@ -200,17 +200,13 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 > _Technologies that were essential and/or new to me at this stage_
 
-Growing through my journey with the CyberPass platform by Red Alert Labs, a company that offers a holistic approach to IoT security for connected product compliance.
+Growing through my journey with the CyberPass platform by Red Alert Labs for connected product security compliance.
 
-###### First Quarter in a One-Year Fixed-Term Contract
+###### First Quarter
 
-Starting in an environment that was more complex and broader in scope than anything I had previously encountered, which was both expected and challenging. **Working with TypeScript, React, and Node.js required me to consolidate my foundational skills, primarily built on my experience with Vanilla JavaScript**, while adapting to more demanding technologies and workflows.
+During the first quarter of my one-year fixed-term contract, **I adapted to an intricate environment using TypeScript, React, and Node.js, building on my JavaScript foundation**. I was involved in improving quality in both backend and frontend environments, focusing on error management, Express object typing, model typing, and code conventions. I evolved through the integration of TanStack React Query across numerous components, tackling challenges related to UI and data integrity. I also troubleshot issues with Ant Design tables and enhanced language and pagination management while navigating the GitHub collaborative workflow, including my first advanced merge conflict.
 
-Rather than independently implementing new solutions, I was tasked with resolving issues in the existing backend and frontend environments, such as error management, model typings, and adherence to code conventions, which required careful attention and a willingness to learn. My efforts included integrating TanStack React Query, troubleshooting the logic of Ant Design tables, and improving language and pagination management, all while navigating merge conflicts and the complexities of collaborative code reviews. The experience also involved tackling advanced challenges in Express object typing, import sorting, and resolving UI and data integrity issues across multiple components—exclusively in code I did not originally create.
-
-In a few simpler tasks requiring basic web integration skills, I aimed to structure project management and its change flow, as well as related quality assessments, to better track progress. I relied on clear communication and analytical thinking to improve resolution times while evolving in a sometimes uncertain context and with occasional guidance.
-
-**This period was characterized by gradual learning, persistent problem-solving**, and a growing understanding of modern web technologies within an evolving platform.
+Besides adapting to a broader and far more complex context than I had previously encountered, which was both expected and challenging, I relied on my **analytical thinking to improve resolution times** while evolving in a sometimes uncertain environment with occasional guidance. In a few simpler tasks, **I aimed to structure project management and its change flow to enhance communication**, as well as related quality assessments, to better track progress in web integration.
 
 <br />
 <br />
