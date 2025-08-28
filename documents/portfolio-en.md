@@ -111,6 +111,43 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 
 
+## Core Competencies
+
+
+### Thinking
+
+- **Mind Mapping**: Visualizing ideas and their relationships to organize thoughts and enhance creativity.
+- **Big-Picture Thinking**: Focusing on overarching goals and long-term vision rather than immediate details.
+- **Analytical Reasoning**: Breaking down complex information into smaller parts for better understanding.
+- **Systems Thinking**: Understanding how components of a system interact and influence one another.
+- **Critical Thinking**: Analyzing and evaluating information objectively to make informed decisions.
+- **Lateral Thinking**: Approaching problems from unconventional angles to generate creative solutions.
+- **Creativity and Innovation**: Generating original ideas and implementing them to create value.
+- **Problem Solving**: Identifying solutions to challenges through systematic approaches and strategies.
+
+### Personal Development
+
+- **Self-Motivation**: The internal drive to pursue goals and take action without external prompts or incentives.
+- **Self-Directed Learning**: Taking initiative in one's own education by identifying learning needs and seeking resources independently.
+- **Self-Management**: Regulating emotions, thoughts, and behaviors to achieve personal and professional goals.
+- **Persistence**: Continuing to work toward a goal despite obstacles, failures, or difficulties.
+
+### Knowledge Transmission
+
+- **Needs Analysis**: Identifying and assessing the learning needs of individuals or groups to tailor educational approaches.
+- **Pedagogy**: Applying teaching methods and strategies to facilitate effective learning experiences.
+- **Written Communication**: Conveying ideas clearly and effectively through written formats to ensure comprehension.
+- **Technical Documentation**: Creating clear and concise documentation that simplifies complex concepts for users.
+- **Summarizing Information**: Distilling complex information into clear, concise summaries for better understanding.
+- **Training Delivery**: Presenting training content in an engaging and structured manner to enhance knowledge retention.
+
+<br />
+<br />
+<br />
+
+
+
+
 ## Journey
 
 <br />
