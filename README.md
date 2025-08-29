@@ -1,7 +1,7 @@
 
 
 
-<br /><br />
+<br />
 
 Sylvain DEMAIMAY
 ================================================================
@@ -31,7 +31,7 @@ Portfolio
 
 ### Compétences Fondamentales
 
-Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler des frictions souvent invisibles dans les processus.
+Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler des frictions souvent invisibles dans les processus, ce qui provoque en moi une pensée latérale, suivie de créativité et d'innovation.
 
 <br />
 
@@ -69,7 +69,7 @@ Programmation permettant de réunir des informations en vue de suivre les perfor
 
 ### Core Competencies
 
-I possess an intuitive and synthetic ability that allows me to identify frictions that are often invisible in processes.
+I possess an intuitive and synthetic ability that allows me to detect often invisible frictions in processes, which triggers in me lateral thinking, followed by creativity and innovation.
 
 <br />
 
