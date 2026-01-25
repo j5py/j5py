@@ -167,7 +167,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 | Type | Focus | Client-Side | Server-Side | Workspace | Content | Done |
 |------|-------|-------------|-------------|-----------|---------|------|
-| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `TypeScript` `React.js` `TanStack React Query` `State` `Components` `Ant Design` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `VisualStudioCode` `GitHub Flow` `GitHub Copilot` `Nifty` `GoogleWorkspace` | Proprietary | 2025 |
+| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `TypeScript` `React.js` `TanStackReactQuery` `State` `Components` `Ant Design` `i18next` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `CASLAbility` `JsonLogic` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `Nifty` `GoogleAppsScript` `VisualStudioCode` `GitHubFlow` `GitHubCopilot` `GoogleWorkspace` | Proprietary | 2025 |
 | Work | Role Involving Addressing Requests and Issues from Various Client Plans in a High-Growth Startup Running an AI-Powered Speech-to-Text REST API | `React.js` `JSX` `ChakraUI` `Formik` `Yup` `ReactPlayer` `RegularExpressions` `JavaScript` `JSON` `HTTP` `GET` `POST` `DELETE` `Endpoints` `Parameter` `StatusCodes` | `Python` `Curl` `RESTAPI` `Whisper` `ASR` `STT` `LLM` | `macOS` `Slack` `Intercom` `Discord` `Linear` `Notion` `Metabase` `Grafana` `GoogleWorkspace` `VisualStudioCode` `Markdown` `GitHub` | Pre-Employment Test of Technical Skills and Writing on [j5py/gladia-home-assignment](https://github.com/j5py/gladia-home-assignment) with React | 2024 |
 | Study | Improved Development Skills through the Final Project of **Meta**'s _Advanced React_ Course Based on a Mock Portfolio | `JavaScript` `React.js` `JSX` `Components` `Props` `State` `Hooks` `ChakraUI` `Formik` `Yup` | `Node.js` `npm` `localhost` | `Windows` `VisualStudioCode` `GitBash` `GitHub` `Markdown` | [j5py/advanced-react](https://github.com/j5py/advanced-react) App <br /><br /> Certificate under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) | 2024 |
 | Work | Quick Help for Host and VM Issues as a Freelancer Supporting Beginners in Security Training | | | `Windows` `CommandPrompt` `PythonHTTPserver` `VirtualBox` `NetworkBridge` `VM` `GNU/Linux` `wget` `Markdown` | _**File Transfer from a Windows Host to a Linux Virtual Machine**_ guide at [j5py/notes...vm...md](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md) | 2024 |
@@ -230,20 +230,41 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 ##### Full-Stack Web Developer for a Platform
 
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF3E00?style=flat&logo=react-query&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![React i18next](https://img.shields.io/badge/React%20i18next-04B575?style=flat&logo=react&logoColor=white)
+![CASL Ability](https://img.shields.io/badge/CASL%20Ability-FF6363?style=flat&logo=javascript&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E8?style=flat&logo=sequelize&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![JsonLogic](https://img.shields.io/badge/JsonLogic-7E4C92?style=flat&logo=json&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-EF2D28?style=flat&logo=google&logoColor=white)
 > _Technologies that were essential and/or new to me at this stage_
 
-Growing through my journey with the CyberPass platform by Red Alert Labs for connected product security compliance.
+Growing through my journey with the CyberPass platform by Red Alert Labs facilitating IoT security compliance evaluation.
+> `1-Year Fixed-Term Contract (ending mid-April 2026)`
+
+###### Last Quarter
+
+Currently in progress, the last quarter began well from the very first days with **a renewed focus on Web Development** (React, TanStack Query, API and Node.js).
+
+###### Third Quarter
+
+With concerns shifting entirely to configurations mirroring industry standards, I **embraced flexibility and initiative**, remarkably by automating the generation of conditional blocks for large JSON structures and programmatically inserting them into the destination file with Google Apps Script and JavaScript, across numerous cells from a sheet. Additionally, restructuring and clarifying the HTML related to another standard, I played a key role in initiating the idea of its iteration by documenting flaws and mapping the current configuration to the related specifications, suggesting a delineation effort **recognized as very valuable by an evaluator** in the team.
+
+Facing fewer opportunities to advance as a Full Stack Developer, I **remained committed to enterprise growth while continuing to improve quality**. Notably, my insights enabled me to actively participate in a meeting with the UX/UI Designer, providing feedback that informed interface updates.
+
+###### Second Quarter
+
+As business imperatives evolved, **reflecting adaptability and a readiness to address company priorities**, my focus shifted from my initial Developer role to building complex user journeys enabling the evaluation of connected products according to specific cybersecurity standards. Meanwhile, critical thinking enabled me to identify and highlight pain points in editing concerning integrity and scalability, which motivated a prompt and substantive update of an internal tool, **recognized by the lead developer as pivotal in supporting the platform’s growth**.
+
+Having previously **contributed to raising awareness on the need for a more effective team workflow, I led the transition to project-management software** by consolidating various sources and reporting them as well-defined tasks within a single Kanban board which streamlined operations and allowed us to maintain oversight. Alongside, I **enjoyed staying connected to my primary role on the Web Development side by handling a few basic tickets**, which involved fixing an unhandled asynchronous call, moving hardcoded strings to internationalization support, unifying delete/update logic on CRUD operations, updating a table reference, and enriching backend permissions.
 
 ###### First Quarter
 
-During the first quarter of my one-year fixed-term contract, **I adapted to an intricate environment using TypeScript, React, and Node.js, building on my JavaScript foundation**. I was involved in improving quality in both backend and frontend environments, focusing on error management, Express object typing, model typing, and code conventions. I evolved through the integration of TanStack React Query across numerous components, tackling challenges related to UI and data integrity. I also troubleshot issues with Ant Design tables and enhanced language and pagination management while navigating the GitHub collaborative workflow, including my first advanced merge conflict.
+I adapted in an **intricate environment using TypeScript, React, and Node.js, building on my JavaScript foundation**, involved in improving quality, focusing on error management, Express object typing, model typing, and code conventions. I evolved through the integration of TanStack React Query across numerous components, tackling challenges related to UI and data relevance. I also troubleshot issues with Ant Design tables, and fixed language and pagination management while navigating the GitHub collaborative workflow, including my first advanced merge conflict.
 
-Besides adapting to a broader and far more complex context than I had previously encountered, which was both expected and challenging, I relied on my **analytical thinking to improve resolution times** while evolving in a sometimes uncertain environment with occasional guidance. In a few simpler tasks, **I aimed to structure project management and its change flow to enhance communication**, as well as related quality assessments, to better track progress in web integration.
+Besides adapting to a broader and far more complex environment than I had previously encountered, which was both expected and challenging, I relied on my analytical thinking while navigating with occasional guidance in a few simpler tasks for which **I structured project management, its change flow and quality assessments**, to enhance communication and improve resolution times.
 
 <br />
 <br />

@@ -169,7 +169,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 | Type | Sujet | Client-Side | Server-Side | Workspace | Contenu | Achevé |
 |------|-------|-------------|-------------|-----------|---------|--------|
-| Travail | Contribution au Développement Web de CyberPass, Plateforme de Mise en Conformité des Produits Connectés, en Tant que Développeur Full-Stack | `TypeScript` `React.js` `TanStack React Query` `State` `Components` `Ant Design` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `VisualStudioCode` `GitHub Flow` `GitHub Copilot` `Nifty` `GoogleWorkspace` | Proprietary | 2025 |
+| Travail | Contribution au Développement Web de CyberPass, Plateforme de Mise en Conformité des Produits Connectés, en Tant que Développeur Full-Stack | `TypeScript` `React.js` `TanStackReactQuery` `State` `Components` `Ant Design` `i18next` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `CASLAbility` `JsonLogic` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `Nifty` `GoogleAppsScript` `VisualStudioCode` `GitHubFlow` `GitHubCopilot` `GoogleWorkspace` | Proprietary | 2025 |
 | Travail | Rôle Impliquant le Traitement de Demandes sous Divers Plans Clients d'une Startup en Hyper-croissance Développant une API REST de Transcription Audio Propulsée par l'IA | `React.js` `JSX` `ChakraUI` `Formik` `Yup` `ReactPlayer` `RegularExpressions` `JavaScript` `JSON` `HTTP` `GET` `POST` `DELETE` `Endpoints` `Parameter` `StatusCodes` | `Python` `Curl` `RESTAPI` `Whisper` `ASR` `STT` `LLM` | `macOS` `Slack` `Intercom` `Discord` `Linear` `Notion` `Metabase` `Grafana` `GoogleWorkspace` `VisualStudioCode` `Markdown` `GitHub` | Test Préalable à l'Embauche, Compétences Techniques et Rédactionnelles sur [j5py/gladia-home-assignment](https://github.com/j5py/gladia-home-assignment) avec React | 2024 |
 | Étude | Progrès de Mes Compétences en Développement Frontend avec le Projet Final du Cours _Advanced React_ par **Meta**, Validé par un Portfolio Fictif | `JavaScript` `React.js` `JSX` `Components` `Props` `State` `Hooks` `ChakraUI` `Formik` `Yup` | `Node.js` `npm` `localhost` | `Windows` `VisualStudioCode` `GitBash` `GitHub` `Markdown` | App Accessible à [j5py/advanced-react](https://github.com/j5py/advanced-react) <br /><br /> Certificat sous **Coursera** via [in/education](https://www.linkedin.com/in/j5py/details/education/) | 2024 |
 | Travail | Aide Rapide pour les Problèmes entre Hôte et VM, en Tant que Freelance Soutenant des Débutants dans leur Formation en Sécurité | | | `Windows` `CommandPrompt` `PythonHTTPserver` `VirtualBox` `NetworkBridge` `VM` `GNU/Linux` `wget` `Markdown` | Guide _**File Transfer from a Windows Host to a Linux Virtual Machine**_ à [j5py/notes...vm...md](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md) | 2024 |
@@ -232,20 +232,41 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 ##### Développeur Web Full-Stack de Plateforme
 
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF3E00?style=flat&logo=react-query&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![React i18next](https://img.shields.io/badge/React%20i18next-04B575?style=flat&logo=react&logoColor=white)
+![CASL Ability](https://img.shields.io/badge/CASL%20Ability-FF6363?style=flat&logo=javascript&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E8?style=flat&logo=sequelize&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![JsonLogic](https://img.shields.io/badge/JsonLogic-7E4C92?style=flat&logo=json&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-EF2D28?style=flat&logo=google&logoColor=white)
 > _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
-Poursuite de mon évolution avec la plateforme CyberPass par Red Alert Labs pour la conformité en matière de sécurité des produits connectés.
+Poursuite de mon évolution avec la plateforme CyberPass de Red Alert Labs facilitant l'évaluation de la conformité en matière de sécurité IoT.
+> `Contrat à Durée Déterminée d'1 an (fin mi-avril 2026)`
+
+###### Dernier Trimestre
+
+Actuellement en cours, le dernier trimestre a bien débuté dès les premiers jours avec **un retour aux Développement Web** (React, TanStack Query, API et Node.js).
+
+###### Troisième Trimestre
+
+Les préoccupations se concentrant exclusivement vers des configurations reflétant des standards de l'industrie, j'ai **adopté une approche flexible et proactive**, notamment en automatisant la génération de blocs conditionnels pour des structures JSON volumineuses et les insérant de manière programmatique dans le fichier de destination avec Google Apps Script et JavaScript, à travers de nombreuses cellules d'une feuille de calcul. Aussi, restructurant et clarifiant le HTML lié à un autre standard, j'ai joué un rôle clé dans l'initiation de l'idée de son itération en documentant les anomalies et en cartographiant la configuration courante aux spécifications correspondantes, suggérant un effort de délinéation **reconnu comme significatif par un évaluateur** de l'équipe.
+
+Face à moins d'opportunités d'avancer en tant que Full Stack Developer, je suis resté **engagé envers la croissance de l'entreprise tout en continuant à améliorer la qualité**. Notamment, mes observations m'ont offert de participer activement à une réunion avec la UX/UI Designer, fournissant des informations qui ont motivé des mises à jour de l'interface.
+
+###### Deuxième Trimestre
+
+Les impératifs commerciaux évoluant, **démontrant capacité d'adaptation et disponibilité à répondre aux priorités de l'entreprise**, mon focus fut déplacé de mon rôle initial de Développeur vers la création de parcours utilisateurs complexes permettant l'évaluation de produits connectés selon des standards de cybersécurité spécifiques. En parallèle, ma pensée critique m'a permis d'identifier et de mettre en évidence des points de friction dans l'édition impactant l'intégrité et l'évolutivité, ce qui a motivé une mise à jour rapide et substantielle d'un outil interne, **reconnue par le Lead Developer comme crucial pour la croissance de la plateforme**.
+
+Ayant précédemment **contribué à sensibiliser à la nécessité d'un flux de travail d'équipe plus efficace, j'ai dirigé la transition vers un logiciel de gestion de projet** en consolidant diverses sources et en les rapportant en tant que tâches bien définies au sein d'un tableau Kanban unique, ce qui a rationalisé les opérations et permis de maintenir une vue d'ensemble. Parallèlement, j'ai **apprécié de rester connecté à mon rôle principal en Développement Web en complétant quelques tâches simples** impliquant de corriger un appel asynchrone non géré, de pousser certains textes en dur vers le support d'internationalisation, d'unifier la logique de delete/update des opérations CRUD, mettre à jour une référence de table, et d'enrichir les autorisations backend.
 
 ###### Premier Trimestre
 
-Dans le premier trimestre de mon contrat d'un an, **je me suis adapté à un environnement intriqué en employant TypeScript, React et Node.js, en m'appuyant sur mes bases en JavaScript**. J'ai contribué à améliorer la qualité des applications backend et frontend, en me concentrant sur la gestion des erreurs, le typage des objets Express, le typage des modèles et les conventions de code. J'ai exercé à travers l'intégration de TanStack React Query dans de nombreux composants, abordant des défis liés à l'interface utilisateur et à l'intégrité des données. J'ai également résolu des problèmes avec les tables Ant Design et optimisé la gestion des langues et de la pagination, tout en naviguant dans le flux de travail collaboratif de GitHub, y compris ma première résolution avancée de conflit de version.
+Adaptation à un **environnement intriqué employant TypeScript, React et Node.js, en m'appuyant sur mes fondations en JavaScript**, impliqué dans l'amélioration de la qualité, avec un accent sur la gestion des erreurs, le typage des objets Express, le typage des modèles et les conventions de code. J'ai évolué à travers l'intégration de TanStack React Query dans de nombreux composants, surmontant des défis liés à l'UI et à la pertinence des données. Je suis intervenu sur des problèmes liés aux tables Ant Design, j'ai aussi résolu la gestion des langues et de pagination tout en naviguant dans le flux collaboratif de GitHub, y compris ma première gestion avancée de merge conflict.
 
-En plus de mon adaptation à un vaste environnement plus complexe que celui que j'avais rencontré, ce qui était aussi attendu qu'exigeant, je me suis appuyé sur ma **pensée analytique pour améliorer les temps de résolution** en évoluant dans un contexte parfois incertain et avec un accompagnement ponctuel. Dans quelques tâches plus simples, **j'ai souhaité structurer la gestion de projet et son flux de changement pour optimiser la communication**, mais aussi le contrôle de qualité, afin d'améliorer le suivi des progrès en intégration web.
+En plus de m'adapter à un environnement beaucoup plus large et complexe que ceux précédemment rencontrés, ce qui était à la fois attendu et stimulant, je me suis fié à ma pensée analytique tout en naviguant avec un acompagnement occasionnel dans quelques tâches plus simples pour lesquelles **j'ai structuré la gestion de projet, son flux de modifications et de contrôle qualité**, afin de parfaire la communication et améliorer les temps de résolution.
 
 <br />
 <br />
