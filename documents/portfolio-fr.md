@@ -130,7 +130,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 | Type | Sujet | Client-Side | Server-Side | Workspace | Contenu | Achevé |
 |------|-------|-------------|-------------|-----------|---------|--------|
-| Travail | Contribution au Développement Web de CyberPass, Plateforme de Mise en Conformité des Produits Connectés, en Tant que Développeur Full-Stack | `TypeScript` `React.js` `TanStackReactQuery` `State` `Components` `Ant Design` `i18next` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `CASLAbility` `JsonLogic` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `Nifty` `GoogleAppsScript` `VisualStudioCode` `GitHubFlow` `GitHubCopilot` `GoogleWorkspace` | Proprietary | 2025 |
+| Travail | Contribution au Développement Web de CyberPass, Plateforme de Mise en Conformité des Produits Connectés, en Tant que Développeur Full-Stack | `TypeScript` `React.js` `TanStackReactQuery` `State` `Components` `Ant Design` `i18next` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `CASLAbility` `JsonLogic` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `Nifty` `GoogleAppsScript` `VisualStudioCode` `GitHubFlow` `GitHubCopilot` `GoogleWorkspace` | Proprietary | 2026 |
 | Travail | Rôle Impliquant le Traitement de Demandes sous Divers Plans Clients d'une Startup en Hyper-croissance Développant une API REST de Transcription Audio Propulsée par l'IA | `React.js` `JSX` `ChakraUI` `Formik` `Yup` `ReactPlayer` `RegularExpressions` `JavaScript` `JSON` `HTTP` `GET` `POST` `DELETE` `Endpoints` `Parameter` `StatusCodes` | `Python` `Curl` `RESTAPI` `Whisper` `ASR` `STT` `LLM` | `macOS` `Slack` `Intercom` `Discord` `Linear` `Notion` `Metabase` `Grafana` `GoogleWorkspace` `VisualStudioCode` `Markdown` `GitHub` | Test Préalable à l'Embauche, Compétences Techniques et Rédactionnelles sur [j5py/gladia-home-assignment](https://github.com/j5py/gladia-home-assignment) avec React | 2024 |
 | Étude | Progrès de Mes Compétences en Développement Frontend avec le Projet Final du Cours _Advanced React_ par **Meta**, Validé par un Portfolio Fictif | `JavaScript` `React.js` `JSX` `Components` `Props` `State` `Hooks` `ChakraUI` `Formik` `Yup` | `Node.js` `npm` `localhost` | `Windows` `VisualStudioCode` `GitBash` `GitHub` `Markdown` | App Accessible à [j5py/advanced-react](https://github.com/j5py/advanced-react) <br /><br /> Certificat sous **Coursera** via [in/education](https://www.linkedin.com/in/j5py/details/education/) | 2024 |
 | Travail | Aide Rapide pour les Problèmes entre Hôte et VM, en Tant que Freelance Soutenant des Débutants dans leur Formation en Sécurité | | | `Windows` `CommandPrompt` `PythonHTTPserver` `VirtualBox` `NetworkBridge` `VM` `GNU/Linux` `wget` `Markdown` | Guide _**File Transfer from a Windows Host to a Linux Virtual Machine**_ à [j5py/notes...vm...md](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md) | 2024 |
@@ -205,7 +205,8 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 > _Technologies essentielles et/ou nouvelles pour moi à cette étape_
 
 Poursuite de mon évolution avec la plateforme CyberPass de Red Alert Labs facilitant l'évaluation de la conformité en matière de sécurité IoT.
-> `Contrat à Durée Déterminée d'1 an (fin mi-avril 2026)`
+
+`Contrat à Durée Déterminée d'1 an (fin mi-avril 2026)`
 
 ###### Dernier Trimestre
 

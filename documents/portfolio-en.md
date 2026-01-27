@@ -130,7 +130,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 | Type | Focus | Client-Side | Server-Side | Workspace | Content | Done |
 |------|-------|-------------|-------------|-----------|---------|------|
-| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `TypeScript` `React.js` `TanStackReactQuery` `State` `Components` `Ant Design` `i18next` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `CASLAbility` `JsonLogic` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `Nifty` `GoogleAppsScript` `VisualStudioCode` `GitHubFlow` `GitHubCopilot` `GoogleWorkspace` | Proprietary | 2025 |
+| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `TypeScript` `React.js` `TanStackReactQuery` `State` `Components` `Ant Design` `i18next` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `CASLAbility` `JsonLogic` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `Nifty` `GoogleAppsScript` `VisualStudioCode` `GitHubFlow` `GitHubCopilot` `GoogleWorkspace` | Proprietary | 2026 |
 | Work | Role Involving Addressing Requests and Issues from Various Client Plans in a High-Growth Startup Running an AI-Powered Speech-to-Text REST API | `React.js` `JSX` `ChakraUI` `Formik` `Yup` `ReactPlayer` `RegularExpressions` `JavaScript` `JSON` `HTTP` `GET` `POST` `DELETE` `Endpoints` `Parameter` `StatusCodes` | `Python` `Curl` `RESTAPI` `Whisper` `ASR` `STT` `LLM` | `macOS` `Slack` `Intercom` `Discord` `Linear` `Notion` `Metabase` `Grafana` `GoogleWorkspace` `VisualStudioCode` `Markdown` `GitHub` | Pre-Employment Test of Technical Skills and Writing on [j5py/gladia-home-assignment](https://github.com/j5py/gladia-home-assignment) with React | 2024 |
 | Study | Improved Development Skills through the Final Project of **Meta**'s _Advanced React_ Course Based on a Mock Portfolio | `JavaScript` `React.js` `JSX` `Components` `Props` `State` `Hooks` `ChakraUI` `Formik` `Yup` | `Node.js` `npm` `localhost` | `Windows` `VisualStudioCode` `GitBash` `GitHub` `Markdown` | [j5py/advanced-react](https://github.com/j5py/advanced-react) App <br /><br /> Certificate under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) | 2024 |
 | Work | Quick Help for Host and VM Issues as a Freelancer Supporting Beginners in Security Training | | | `Windows` `CommandPrompt` `PythonHTTPserver` `VirtualBox` `NetworkBridge` `VM` `GNU/Linux` `wget` `Markdown` | _**File Transfer from a Windows Host to a Linux Virtual Machine**_ guide at [j5py/notes...vm...md](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md) | 2024 |
@@ -205,7 +205,8 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 > _Technologies that were essential and/or new to me at this stage_
 
 Growing through my journey with the CyberPass platform by Red Alert Labs facilitating IoT security compliance evaluation.
-> `1-Year Fixed-Term Contract (ending mid-April 2026)`
+
+`1-Year Fixed-Term Contract (ending mid-April 2026)`
 
 ###### Last Quarter
 
