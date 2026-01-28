@@ -57,10 +57,11 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 ### Career Path
 
-
-1. Several years of upselling in bars before initial Web Development training
-2. A few years employed in Data Collection followed by an intensive Information Security journey
-3. Given the amplitude of Penetration Testing studies, focused on Cloud-native Technologies for tangible results
+1. A decade spent refining my Upselling Skills in Bars before my initial training in Web Development
+1. A few years of experience in Data Collection and Support, followed by an intensive journey in Information Security
+1. Given the amplitude of Penetration Testing studies, focused on Cloud-native Technologies for tangible results
+    1. Since mid-April 2025, Web Developer for a platform dedicated to IoT Security, an enriching opportunity
+        1. <mark>Starting mid-April 2026, at the end of my 12-month contract, available to contribute effectively to new projects</mark>
 
 <br />
 
@@ -130,7 +131,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 | Type | Focus | Client-Side | Server-Side | Workspace | Content | Done |
 |------|-------|-------------|-------------|-----------|---------|------|
-| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `TypeScript` `React.js` `TanStackReactQuery` `State` `Components` `Ant Design` `i18next` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `CASLAbility` `JsonLogic` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `Nifty` `GoogleAppsScript` `VisualStudioCode` `GitHubFlow` `GitHubCopilot` `GoogleWorkspace` | Proprietary | 2026 |
+| Work | Contribution to the Web Development of CyberPass, Compliance Platform for Connected Products, as a Full-Stack Developer | `TypeScript` `React.js` `TanStackReactQuery` `State` `Components` `Ant Design` `i18next` `ESLint` `Prettier` | `TypeScript` `Node.js` `Express` `Sequelize` `DBeaver` `CASLAbility` `JsonLogic` `Docker` `ESLint` `Prettier` | `Ubuntu` `Slack` `Nifty` `GoogleAppsScript` `VisualStudioCode` `GitHubFlow` `GitHubCopilot` `GoogleWorkspace` | Proprietary | 2026 |
 | Work | Role Involving Addressing Requests and Issues from Various Client Plans in a High-Growth Startup Running an AI-Powered Speech-to-Text REST API | `React.js` `JSX` `ChakraUI` `Formik` `Yup` `ReactPlayer` `RegularExpressions` `JavaScript` `JSON` `HTTP` `GET` `POST` `DELETE` `Endpoints` `Parameter` `StatusCodes` | `Python` `Curl` `RESTAPI` `Whisper` `ASR` `STT` `LLM` | `macOS` `Slack` `Intercom` `Discord` `Linear` `Notion` `Metabase` `Grafana` `GoogleWorkspace` `VisualStudioCode` `Markdown` `GitHub` | Pre-Employment Test of Technical Skills and Writing on [j5py/gladia-home-assignment](https://github.com/j5py/gladia-home-assignment) with React | 2024 |
 | Study | Improved Development Skills through the Final Project of **Meta**'s _Advanced React_ Course Based on a Mock Portfolio | `JavaScript` `React.js` `JSX` `Components` `Props` `State` `Hooks` `ChakraUI` `Formik` `Yup` | `Node.js` `npm` `localhost` | `Windows` `VisualStudioCode` `GitBash` `GitHub` `Markdown` | [j5py/advanced-react](https://github.com/j5py/advanced-react) App <br /><br /> Certificate under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) | 2024 |
 | Work | Quick Help for Host and VM Issues as a Freelancer Supporting Beginners in Security Training | | | `Windows` `CommandPrompt` `PythonHTTPserver` `VirtualBox` `NetworkBridge` `VM` `GNU/Linux` `wget` `Markdown` | _**File Transfer from a Windows Host to a Linux Virtual Machine**_ guide at [j5py/notes...vm...md](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md) | 2024 |
@@ -198,8 +199,9 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF3E00?style=flat&logo=react-query&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)
 ![React i18next](https://img.shields.io/badge/React%20i18next-04B575?style=flat&logo=react&logoColor=white)
-![CASL Ability](https://img.shields.io/badge/CASL%20Ability-FF6363?style=flat&logo=javascript&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E8?style=flat&logo=sequelize&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
+![CASL Ability](https://img.shields.io/badge/CASL%20Ability-FF6363?style=flat&logo=javascript&logoColor=white)
 ![JsonLogic](https://img.shields.io/badge/JsonLogic-7E4C92?style=flat&logo=json&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-EF2D28?style=flat&logo=google&logoColor=white)
 > _Technologies that were essential and/or new to me at this stage_
