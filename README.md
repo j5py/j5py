@@ -10,18 +10,23 @@ Sylvain DEMAIMAY
 
 _You might think there's not much here yet, but look closer—the roots run deep, though the journey ahead looks even longer!_
 
+
 <br /><br />
+
 
 Introduction
 ----------------------------------------------------------------
 
-<br /><br />
 
+<br /><br />
 
 
 <details>
-<summary><ins>Français</ins></summary>
+<summary><ins>Français - Parcours Professionnel</ins> :fr:</summary>
+
+
 <br /><br />
+
 
 ### Compétences Techniques
 
@@ -73,12 +78,17 @@ Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler
 - **Dispensation de Formation**: Présenter le contenu de la formation de manière engageante et structurée pour améliorer la rétention des connaissances.
 
 </details>
+
+
 <br /><br />
 
 
 <details>
-<summary><ins>English</ins></summary>
+<summary><ins>English - Career Path</ins> :uk:</summary>
+
+
 <br /><br />
+
 
 ### Technical Skills
 
@@ -130,4 +140,83 @@ I possess an intuitive and synthetic ability that allows me to detect often invi
 - **Training Delivery**: Presenting training content in an engaging and structured manner to enhance knowledge retention.
 
 </details>
-<br /><br />
+
+
+<br /><br /><br />
+
+
+Index
+----------------------------------------------------------------
+
+> Only non-proprietary materials from 2023 onwards are listed here.
+>
+> Between 2016 and 2022, I didn't dare to publicly share my progress as a self-taught individual.
+
+<br />
+
+### Working
+- Tips
+    - [Web Development and Linux](https://github.com/j5py/notes/blob/main/see/facility-many-personal-webdevelopmentandlinux-en.md)
+- Tests
+    - [React Web App Development for Gladia REST API Integration (and customer support technical write-up)](https://github.com/j5py/gladia-home-assignment)
+- Insights
+    - [JavaScript for Client-side Data Collection (in Tag Management Systems)](https://github.com/j5py/notes/blob/main/see/facility-js-personal-datacollectionclientside-en.md)
+- Resources
+    - [j5py.github.io](https://j5py.github.io/)
+        - [Responsive Web Design (acting as a SPA—repository)](https://github.com/j5py/j5py.github.io)
+- Utilities
+    - JavaScript
+        - [Google Apps Script (for Google Sheets—early version)](https://github.com/j5py/notes/blob/main/see/facility-googleappsscript-personal-utils-en.js)
+    - Python
+        - [RUNME.py CLI Tool for Sorting Unique README Links](https://github.com/j5py/list/blob/main/RUNME.py)
+    - Shell
+        - [Hyphenated Lowercase with Bash (to build branch names—likely to be rewritten as a Node.js tool)](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-hyphenatedlowercasewithbash-en.sh)
+        - [Pull Repositories with Z shell (Zsh)](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pullrepositorieswithzsh-en.sh)
+        - [Pull Repositories with Bash](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pullrepositorieswithbash-en.sh)
+    - Virtualization
+        - [File Transfer from a Windows Host to a Linux Virtual Machine](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md)
+
+### Training
+
+- Searches
+    - Python
+        - [Classes and Inheritance Basics](https://github.com/j5py/notes/blob/main/see/lesson-py-personal-classesandinheritancebasics-en.py)
+        - [Namespaces and Scopes](https://github.com/j5py/notes/blob/main/see/lesson-py-personal-namespacesandscopes-en.md)
+    - Security
+        - [Alphabetical List of Penetration Testing Resources (collected during training)](https://github.com/j5py/list/blob/main/README.md)
+        - [Brief Notes on Systems and Networking Basics (mixed French/English)](https://github.com/j5py/notes/blob/main/see/lesson-many-personal-research-fren.txt)
+- Courses
+    - **Hack The Box**
+        - System
+            - [Linux Fundamentals (postponed, only started)](https://github.com/j5py/notes/blob/main/see/lesson-linux-hackthebox-linuxfundamentals-en.txt)
+    - **Coursera**
+        - JavaScript
+            - [Advanced React (by IBM—final project, web app)](https://github.com/j5py/advanced-react)
+            - [Developing Back-End Apps with Node.js and Express (by IBM—final project, app as a REST API)](https://github.com/j5py/express)
+            - [Developing Back-End Apps with Node.js and Express (by IBM—personal notes)](https://github.com/j5py/notes/blob/main/see/lesson-js-ibm-nodejsexpress-en.txt)
+            - [Jasmine Fundamentals (by IBM)](https://github.com/j5py/notes/blob/main/see/lesson-js-ibm-jasmine-en.txt)
+            - [JavaScript Iterators and Generators](https://github.com/j5py/notes/blob/main/see/lesson-js-coursera-iteratorsgenerators-en.md)
+            - [Asynchronous JavaScript](https://github.com/j5py/notes/blob/main/see/lesson-js-coursera-asynchronous-en.md)
+        - Database
+            - [Introduction to MongoDB (by MongoDB)](https://github.com/j5py/notes/blob/main/see/lesson-db-mongodb-mongodb-en.txt)
+        - Cloud
+            - [Introduction to Containers with Docker, Kubernetes & OpenShift (by IBM—peer-graded assignment)](https://github.com/j5py/containers)
+            - [Introduction to Containers with Docker, Kubernetes & OpenShift (by IBM—personal notes)](https://github.com/j5py/notes/blob/main/see/lesson-cloud-ibm-dockerkubernetesopenshift-en.txt)
+            - [Get Started with Cloud Native, DevOps, Agile, and NoSQL (by IBM)](https://github.com/j5py/agile)
+        - System
+            - [Technical Support Fundamentals (by Google—postponed, only started)](https://github.com/j5py/notes/blob/main/see/lesson-many-google-technicalsupportfundamentals-en.txt)
+        - Network
+            - [Introduction to TCP/IP (by Yonsei University)](https://github.com/j5py/notes/blob/main/see/lesson-network-yonsei-tcpip-en.txt)
+        - Python
+            - [Python for Everybody Specialization](https://github.com/j5py/py4e)
+        - Shell
+            - [Shell Scripting Basics](https://github.com/j5py/notes/blob/main/see/lesson-sh-coursera-shellscriptingbasics-en.md)
+    - **TryHackMe**
+        - Security
+            - [Jr Penetration Tester](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-jrpenetrationtester-en.txt)
+            - [Web Fundamentals](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-webfundamentals-en.txt)
+            - [Pre Security](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-presecurity-en.txt)
+
+
+<br /><br /><br />
+
