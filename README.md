@@ -168,7 +168,8 @@ Index
     - JavaScript
         - [Google Apps Script (for Google Sheets—early version)](https://github.com/j5py/notes/blob/main/see/facility-googleappsscript-personal-utils-en.js)
     - Python
-        - [RUNME.py CLI Tool for Sorting Unique README Links](https://github.com/j5py/list/blob/main/RUNME.py)
+        - [RUNME.py CLI Tool for Sorting Unique README Links (latest—object-oriented)](https://github.com/j5py/list/blob/main/RUNME.py)
+        - [RUNME.py CLI Tool for Sorting Unique README Links (previous—procedural)](https://github.com/j5py/list/blob/c5f177b6c63d29286223ae9f879363053b3f9d1e/RUNME.py)
     - Shell
         - [Hyphenated Lowercase with Bash (to build branch names—likely to be rewritten as a Node.js tool)](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-hyphenatedlowercasewithbash-en.sh)
         - [Pull Repositories with Z shell (Zsh)](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pullrepositorieswithzsh-en.sh)
