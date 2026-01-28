@@ -145,6 +145,23 @@ I possess an intuitive and synthetic ability that allows me to detect often invi
 <br /><br /><br />
 
 
+Horizon
+----------------------------------------------------------------
+
+<br />
+
+![Milky Way appearing beyond Earth’s horizon by NASA astronaut Don Pettit](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/milky-way-appearing-beyond-earths-horizon-by-nasa-astronaut-don-pettit.jpg)
+
+Witnessing the vastness of the universe, with the [Milky Way appearing beyond Earth’s horizon by NASA astronaut Don Pettit](https://www.nasa.gov/image-article/milky-way-on-the-horizon/), serves as a powerful reminder of our smallness and interconnectedness, especially in light of ongoing crises—from pressing environmental concerns to escalating geopolitical tensions.
+
+I’ve always been fascinated by technology, even during years when I felt far from it, envisioning a future where innovation helps us understand our place in the cosmos. It’s intriguing to consider how our tools can connect us meaningfully, yet we often act as if we lack direction, collectively harming our only source of life.
+
+Choosing to live ethically, including adopting a vegan lifestyle, reflects my personal journey toward greater consciousness. Unless one genuinely seeks to understand, I won't delve deeply into it; it's more about finding meaning in my small self and encouraging reflection on our impact through simply existing. I believe we should all strive to act in more profound ways, no matter how small the steps. Take a look at [Pale Blue Dot by NASA’s Voyager 1 spacecraft](https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/), you'll see there’s ample room for reflection on our shared journey.
+
+
+<br /><br /><br />
+
+
 Index
 ----------------------------------------------------------------
 
