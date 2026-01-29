@@ -81,37 +81,6 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 
 
-## Notice
-
-
-
-### Emerging Project
-
-
-> [!TIP]
-> **Keep an eye here as I share my projects and expertise while continuing to learn and grow in my coding journey**.
->
-> _Below, you'll find a curated overview of my technical journey and projects; however, my GitHub profile only showcases [repositories from 2023 onwards](https://github.com/j5py?tab=repositories). All the languages and technologies I encountered during my studies between 2016 and 2018, along with all the programs I wrote between 2018 and 2022 (from web applications to numerous JavaScript snippets integrated into third-party solutions) are not archived here._
-
-<br />
-
-
-
-### Usage Advisory
-
-
-> [!CAUTION]
-> **Any repository or link accessible from this GitHub account related to Offensive Cybersecurity is potentially impactful and should under no circumstances be used outside of a controlled testing environment for study and skill enhancement, promoting the integrity of Information Systems**.
->
-> _Unless you are a Cybersecurity Professional acting preventively in a legal environment, you could put yourself in a reprehensible and potentially high-risk situation by acting inconsiderately. Be humble; any use engages your own responsibility._
-
-<br />
-<br />
-<br />
-
-
-
-
 ## Journey
 
 <br />
@@ -396,7 +365,7 @@ Following a 3-month Web Development Bootcamp with WebForce3 (covering the basics
 
 As a capstone project, I developed a CV website using Symfony 3, **my very first online application**. While I don't recall the hosting provider, I remember configuring an Apache HTTP Server. I also implemented a messaging feature with jQuery and SQL, allowing users to chat, along with a timed game where players had to drag and drop bills into a bank while avoiding a controller that would decrease their score. The responsive frontend was created with custom CSS. Although I didn't keep the code from that time, you can visit an archive of [sylvaindemaimay.com/sitemap on The Wayback Machine (Texts in French)](https://web.archive.org/web/20180824130531/http://sylvaindemaimay.com/sitemap), where I expressed a strong interest in security and the potential of data. My curiosity and commitment to understanding these areas have guided my career development, rooted in documentaries on societal subjects and science fiction films that offer inspiration with a prospective view.
 
-> [!NOTE]
+> [!TIP]
 > **Only the frontend could be archived**.
 >
 > _Because the server-side logic cannot be copied, you won't be able to see a form processed, access the chat, or play the game. Additionally, the burger icon can't be rendered on this scraped version, which is why the URL points to the Sitemap._

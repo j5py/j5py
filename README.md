@@ -156,7 +156,7 @@ Witnessing the vastness of the universe, with the [Milky Way appearing beyond Ea
 
 I’ve always been fascinated by technology, even during years when I felt far from it, envisioning a future where innovation helps us understand our place in the cosmos. It’s intriguing to consider how our tools can connect us significantly, yet we often act as if we lack direction, collectively harming our only source of life.
 
-Choosing to live ethically reflects my personal journey toward greater consciousness, notably by switching to a vegan consumption commitment (unless one genuinely seeks to understand, I won't delve into it). I believe we can all thrive by taking profound actions, no matter how modest, as it's about finding meaning in our small selves. Take a look at [Pale Blue Dot by NASA’s Voyager 1 spacecraft](https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/); you'll see there’s ample room for reflection on our shared journey.
+Choosing to live ethically reflects my personal journey toward greater consciousness, notably by switching to a vegan consumption commitment (unless one genuinely seeks to understand, I won't delve into it). I believe we can all thrive by taking profound actions, no matter how modest, as it's about finding meaning in our small selves. Take a look at [Pale Blue Dot by NASA’s Voyager 1 spacecraft](https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/), you'll see there’s ample room for reflection on our shared journey.
 
 
 <br /><br /><br />
@@ -165,9 +165,10 @@ Choosing to live ethically reflects my personal journey toward greater conscious
 Index
 ----------------------------------------------------------------
 
-> Only non-proprietary materials from 2023 onwards are listed here.
+> [!NOTE]
+> **Only non-proprietary materials from 2023 onwards are listed here**.
 >
-> Between 2016 and 2022, I didn't dare to publicly share my progress as a self-taught individual.
+> _Between 2016 and 2022, I didn't dare to publicly share my progress as a self-taught individual._
 
 <br />
 
@@ -193,6 +194,8 @@ Index
         - [Pull Repositories with Bash](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pullrepositorieswithbash-en.sh)
     - Virtualization
         - [File Transfer from a Windows Host to a Linux Virtual Machine](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md)
+
+<br />
 
 ### Training
 
@@ -235,6 +238,9 @@ Index
             - [Web Fundamentals](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-webfundamentals-en.txt)
             - [Pre Security](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-presecurity-en.txt)
 
+<br />
 
-<br /><br /><br />
-
+> [!CAUTION]
+> **Any repository or link accessible from this GitHub account related to Offensive Cybersecurity is potentially impactful. Such resources should never be used outside of a controlled testing environment. They are intended solely for study and skill enhancement, thereby promoting the integrity of Information Systems.**
+>
+> _Unless you are a Cybersecurity Professional acting preventively in a legal environment, you could put yourself in a reprehensible and potentially high-risk situation by acting inconsiderately. Be humble; any use engages your own responsibility._

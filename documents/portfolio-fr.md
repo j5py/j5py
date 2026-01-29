@@ -81,37 +81,6 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 
 
-## Avis
-
-
-
-### Projet Émergent
-
-
-> [!TIP]
-> **Gardez un œil attentif sur ce profil, je continuerai à partager projets et expertises tout en poursuivant mon évolution professionnelle**.
->
-> _Ci-dessous, vous trouverez un aperçu détaillé de mon parcours technique et de mes projets, cependant mon profil GitHub ne présente que des [dépôts à partir de 2023](https://github.com/j5py?tab=repositories). Tous les langages et technologies que j'ai rencontrés durant mes études entre 2016 et 2018, ainsi que tous les programmes que j'ai écrits entre 2018 et 2022 (entre applications Web et de nombreux fragments JavaScript intégrés via solutions tierces) ne sont pas archivés ici._
-
-<br />
-
-
-
-### Avertissement d'Utilisation
-
-
-> [!CAUTION]
-> **Tout dépôt ou lien accessible depuis ce compte GitHub lié à la Cybersécurité Offensive est potentiellement impactant et ne doit en aucun cas être utilisé en dehors d'un environnement de test contrôlé pour l'étude et l'amélioration des compétences, en promouvant l'intégrité des Systèmes d'Information**.
->
-> _À moins que vous ne soyez un Professionnel de la Cybersécurité agissant de manière préventive dans un environnement légal, vous pourriez vous placer dans une situation répréhensible et potentiellement à haut risque en agissant inconsidérément. Soyez humble, toute utilisation engage votre propre responsabilité._
-
-<br />
-<br />
-<br />
-
-
-
-
 ## Évolution
 
 <br />
@@ -396,7 +365,7 @@ Les Tag Management Systems facilitent l'orchestration de solutions tierces en fo
 
 En tant que projet de fin d'études, j'ai développé un site CV avec Symfony 3, **ma toute première application en ligne**. Bien que je ne me remémore pas le nom de l'hébergeur, je me souviens avoir configuré un serveur HTTP Apache. J'ai également conçu une fonctionnalité de messagerie avec jQuery et SQL, ainsi qu'un jeu chronométré où les joueurs devaient faire glisser et déposer des billets dans la banque tout en évitant un contrôleur qui pouvait réduire leur score. Le Frontend, Responsive, avait été créé avec du CSS personnalisé. Bien que je n'aie pas conservé le code de l'époque, vous pouvez visiter une archive de [sylvaindemaimay.com/sitemap sur The Wayback Machine](https://web.archive.org/web/20180824130531/http://sylvaindemaimay.com/sitemap), où j'exprimais déjà un vif intérêt pour la Sécurité et le potentiel des Données. Ma curiosité et mon engagement à comprendre ces domaines ont guidé mon développement professionnel, une volonté ayant pris racine entre documentaires sur des sujets sociétaux et films de science-fiction offrant inspiration et vision prospective.
 
-> [!NOTE]
+> [!TIP]
 > **Seul le frontend a pu être archivé**.
 >
 > _Étant donné que la logique côté serveur ne peut pas être copiée, vous ne pourrez pas bénéficier du traitement des formulaires, accéder à la messagerie, ou jouer au jeu. De plus, l'icône burger ne peut pas être rendue non plus dans cette version scrappée, c'est pourquoi l'URL pointe vers le plan du site._
