@@ -14,7 +14,7 @@ _You might think there's not much here yet, but look closer—the roots run deep
 <br /><br />
 
 
-Introduction
+Portfolio
 ----------------------------------------------------------------
 
 
@@ -30,7 +30,7 @@ Introduction
 
 ### Compétences Techniques
 
-[Consultez les détails complets et structurés de mon parcours technique](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
+:pushpin: [Consultez les détails complets et structurés de mon parcours technique](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
 
 #### Développement Web
 
@@ -92,7 +92,7 @@ Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler
 
 ### Technical Skills
 
-[Check out the complete and structured details of my technical background](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
+:pushpin: [Check out the complete and structured details of my technical background](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
 
 #### Web Development
 
@@ -154,9 +154,9 @@ Horizon
 
 Witnessing the vastness of the universe, with the [Milky Way appearing beyond Earth’s horizon by NASA astronaut Don Pettit](https://www.nasa.gov/image-article/milky-way-on-the-horizon/), serves as a powerful reminder of our smallness and interconnectedness, especially in light of ongoing crises—from pressing environmental concerns to escalating geopolitical tensions.
 
-I’ve always been fascinated by technology, even during years when I felt far from it, envisioning a future where innovation helps us understand our place in the cosmos. It’s intriguing to consider how our tools can connect us meaningfully, yet we often act as if we lack direction, collectively harming our only source of life.
+I’ve always been fascinated by technology, even during years when I felt far from it, envisioning a future where innovation helps us understand our place in the cosmos. It’s intriguing to consider how our tools can connect us significantly, yet we often act as if we lack direction, collectively harming our only source of life.
 
-Choosing to live ethically, including adopting a vegan lifestyle, reflects my personal journey toward greater consciousness. Unless one genuinely seeks to understand, I won't delve deeply into it; it's more about finding meaning in my small self and encouraging reflection on our impact through simply existing. I believe we should all strive to act in more profound ways, no matter how small the steps. Take a look at [Pale Blue Dot by NASA’s Voyager 1 spacecraft](https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/), you'll see there’s ample room for reflection on our shared journey.
+Choosing to live ethically reflects my personal journey toward greater consciousness, notably by switching to a vegan consumption commitment (unless one genuinely seeks to understand, I won't delve into it). I believe we can all thrive by taking profound actions, no matter how modest, as it's about finding meaning in our small selves. Take a look at [Pale Blue Dot by NASA’s Voyager 1 spacecraft](https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/); you'll see there’s ample room for reflection on our shared journey.
 
 
 <br /><br /><br />
