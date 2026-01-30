@@ -1,14 +1,12 @@
 
-[Back to Home](https://github.com/j5py) | [Version Française)](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
-
-<br />
-<br />
 <br />
 
 # Sylvain DEMAIMAY
 
-<br />
+[Back to Home](https://github.com/j5py) | [Aller à la Version Française](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
 
+<br />
+<br />
 
 
 ## Executive Summary
@@ -39,7 +37,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 1. A few years of experience in Data Collection and Support, followed by an intensive journey in Information Security
 1. Given the amplitude of Penetration Testing studies, focused on Cloud-native Technologies for tangible results
     1. Since mid-April 2025, Web Developer for a platform dedicated to IoT Security, an enriching opportunity
-        1. **Starting mid-April 2026, at the end of my 12-month contract, available to contribute effectively to new projects** :satellite:
+        1. :bookmark: **Starting mid-April 2026, at the end of my 12-month contract, available to support new projects** :satellite:
 
 <br />
 

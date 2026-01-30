@@ -1,14 +1,12 @@
 
-[Retour à l'Accueil](https://github.com/j5py) | [English Version](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
-
-<br />
-<br />
 <br />
 
 # Sylvain DEMAIMAY
 
-<br />
+[Retour à l'Accueil](https://github.com/j5py) | [Go to the English Version](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
 
+<br />
+<br />
 
 
 ## Résumé Exécutif
@@ -39,7 +37,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 1. Quelques années d'expérience en Collecte de Données et Support, suivies d'un parcours intensif en Sécurité de l'Information
 1. Face à l'ampleur de mes études en Test d'Intrusion, recentrage sur les Technologies Cloud pour des résultats tangibles
     1. Depuis mi-avril 2025, Développeur Web pour une plateforme dédiée à la Sécurité IoT, une opportunité enrichissante
-        1. **Dès mi-avril 2026, à la fin du CDD de 12 mois, disponible pour contribuer efficacement à de nouveaux projets** :satellite:
+        1. :bookmark: **Dès mi-avril 2026, à la fin du CDD de 12 mois, disponible pour soutenir de nouveaux projets** :satellite:
 
 <br />
 
