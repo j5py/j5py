@@ -84,7 +84,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 #### 2024-2026
 
-##### Développement et Cloud
+##### Cloud et Développement
 
 <br />
 
@@ -125,7 +125,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 #### 2018-2022
 
-##### Données et Développement
+##### Développement et Données
 
 <br />
 
@@ -359,6 +359,47 @@ En tant que projet de fin d'études, j'ai développé un site CV avec Symfony 3,
 > **Seul le frontend a pu être archivé**.
 >
 > _Étant donné que la logique côté serveur ne peut pas être copiée, vous ne pourrez pas bénéficier du traitement des formulaires, accéder à la messagerie, ou jouer au jeu. De plus, l'icône burger ne peut pas être rendue non plus dans cette version scrappée, c'est pourquoi l'URL pointe vers le plan du site._
+
+
+<br />
+<br />
+<br />
+<br />
+
+
+## Compétences Fondamentales
+
+Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler des frictions souvent invisibles dans les processus, ce qui provoque en moi une pensée latérale, suivie de créativité et d'innovation.
+
+<br />
+
+### Réflexion
+
+- **Cartographie Mentale**: Visualiser des idées et leurs relations pour organiser les pensées et stimuler la créativité.
+- **Pensée Globale**: Se concentrer sur les objectifs généraux et la vision à long terme plutôt que sur les détails immédiats.
+- **Raisonnement Analytique**: Décomposer des informations complexes en parties plus petites pour une meilleure compréhension.
+- **Pensée Systémique**: Comprendre comment les composants d'un système interagissent et s'influencent mutuellement.
+- **Pensée Critique**: Analyser et évaluer des informations de manière objective pour prendre des décisions éclairées.
+- **Pensée Latérale**: Aborder les problèmes sous des angles non conventionnels pour générer des solutions créatives.
+- **Créativité et Innovation**: Générer des idées originales et les mettre en œuvre pour créer de la valeur.
+- **Résolution de Problèmes**: Identifier des solutions aux défis par des approches et des stratégies systématiques.
+
+### Développement Personnel
+
+- **Auto-Motivation**: L'élan interne pour poursuivre des objectifs et agir sans incitations ou prompts externes.
+- **Apprentissage Autonome**: Prendre l'initiative de sa propre éducation en identifiant les besoins d'apprentissage et en recherchant des ressources de manière indépendante.
+- **Auto-Management**: Réguler ses émotions, pensées et comportements pour atteindre des objectifs personnels et professionnels.
+- **Persévérance**: Continuer à travailler vers un objectif malgré les obstacles, échecs ou difficultés.
+
+### Transmission des Connaissances
+
+- **Analyse des Besoins**: Identifier et évaluer les besoins d'apprentissage des individus ou des groupes pour adapter les approches éducatives.
+- **Pédagogie**: Appliquer des méthodes et stratégies d'enseignement pour faciliter des expériences d'apprentissage efficaces.
+- **Communication Écrite**: Transmettre des idées de manière claire et efficace par des formats écrits pour assurer la compréhension.
+- **Documentation Technique**: Créer une documentation claire et concise qui simplifie des concepts complexes pour les utilisateurs.
+- **Résumé d'Information**: Distiller des informations complexes en résumés clairs et concis pour une meilleure compréhension.
+- **Dispensation de Formation**: Présenter le contenu de la formation de manière engageante et structurée pour améliorer la rétention des connaissances.
+
 
 <br />
 <br />
