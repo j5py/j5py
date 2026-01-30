@@ -82,7 +82,9 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 <br />
 
-#### Développement Cloud-native
+#### 2024-2026
+
+##### Développement et Cloud
 
 <br />
 
@@ -102,7 +104,9 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 <br />
 <br />
 
-#### Sécurité de l'Information
+#### 2023-2024
+
+##### Sécurité de l'Information
 
 <br />
 
@@ -119,7 +123,9 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 <br />
 <br />
 
-#### Développement et Données
+#### 2018-2022
+
+##### Données et Développement
 
 <br />
 

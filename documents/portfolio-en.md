@@ -69,7 +69,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 
 
-## Journey
+## Evolution
 
 <br />
 
@@ -82,7 +82,9 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 <br />
 
-#### Cloud-native Development
+#### 2024-2026
+
+##### Development and Cloud
 
 <br />
 
@@ -102,7 +104,9 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 <br />
 <br />
 
-#### Information Security
+#### 2023-2024
+
+##### Information Security
 
 <br />
 
@@ -119,7 +123,9 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 <br />
 <br />
 
-#### Development and Data
+#### 2018-2022
+
+##### Data and Development
 
 <br />
 
