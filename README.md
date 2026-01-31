@@ -10,77 +10,129 @@ Sylvain DEMAIMAY
 
 _You might think there's not much here yet, but look closer—the roots run deep, though the journey ahead looks even longer!_
 
+<br />
+<br />
 
-<br /><br />
-
-
-Portfolio
+Experience
 ----------------------------------------------------------------
 
-
 <br />
-<br />
-
 
 ### :fr: Parcours Technologique
 
-:pushpin: [Consultez les détails complets et structurés de mon parcours](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
+[Consultez les détails complets et structurés de mon parcours](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
 
 <br />
-
-**2024-2026, Cloud et Développement, Études puis Expérience Professionnelle** : Intervention dans des applications complexes et des plateformes majeures, davantage qu'à travers des outils préconfigurés disposant de modèles pour faciliter la création de sites sur Internet.
-
-**2023-2024, Sécurité de l'Information, Études** : Évaluation de la sécurité des systèmes et des applications en cherchant des failles, dans le but de prévenir les risques potentiels et de s'assurer que les données des utilisateurs sont protégées.
-
-**2018-2022, Développement et Données, Études puis Expériences Professionnelles** : Programmation permettant de réunir des informations en vue de suivre les performances ou d’identifier les points d’amélioration, et réalisation de tests de modification pour optimiser l'expérience des utilisateurs.
-
-
-<br />
-<br />
-
 
 ### :uk: Technological Journey
 
-:pushpin: [Check out the complete and structured details of my journey](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
+[Check out the complete and structured details of my journey](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
 
 <br />
+<br />
+<br />
 
-**2024-2026, Cloud and Development, Studies then Professional Experience**: Involvement in complex applications and major platforms, rather than through preconfigured tools with templates to facilitate the creation of websites.
-
-**2023-2024, Information Security, Studies**: Evaluation of system and application security by searching for vulnerabilities, to prevent potential risks and ensure that user data are protected.
-
-**2018-2022, Development and Data, Studies then Professional Experiences**: Programming that allows for gathering information to track performance or identify areas for improvement, and conducting modification tests to optimize the user experience.
-
-
-<br /><br /><br />
-
-
-Horizon
+Synopsis
 ----------------------------------------------------------------
 
 <br />
 
-![Milky Way appearing beyond Earth’s horizon by NASA astronaut Don Pettit](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/milky-way-appearing-beyond-earths-horizon-by-nasa-astronaut-don-pettit.jpg)
+<table>
+    <tbody>
+        <tr>
+            <td>2026</td>
+            <td rowspan="4">Cloud and Development</td>
+            <td rowspan="3">Working</td>
+            <td rowspan="2">Full-Stack Web Developer</td>
+        </tr>
+        <tr>
+            <td>2025</td>
+        </tr>
+        <tr>
+            <td rowspan="3">2024</td>
+            <td>Customer Success Manager</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Training</td>
+            <td>Cloud-native Development</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Information Security</td>
+            <td rowspan="2">Penetration Testing</td>
+        </tr>
+        <tr>
+            <td rowspan="2">2023</td>
+        </tr>
+        <tr>
+            <td rowspan="10">Development and Data</td>
+            <td rowspan="7">Working</td>
+            <td rowspan="4">
+                Customer Solutions and Support Engineer
+            </td>
+        </tr>
+        <tr>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td rowspan="2">2020</td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+                Tracking Specialist and Analytics Manager
+            </td>
+        </tr>
+        <tr>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td rowspan="2">2018</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Training</td>
+            <td rowspan="3">Web Development and Analytics</td>
+        </tr>
+        <tr>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td rowspan="2">2016</td>
+        </tr>
+        <tr>
+            <td colspan="3" rowspan="4">
+                Background of limited support and no formal education,
+                navigating low-paying jobs before transitioning to bars
+                (occasionally achieving significant earnings but often
+                facing high turnover). At that point, I had never really
+                used a computer.<br />
+            </td>
+        </tr>
+        <tr>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>...</td>
+        </tr>
+    </tbody>
+</table>
 
-Witnessing the vastness of the universe, with the [Milky Way appearing beyond Earth’s horizon by NASA astronaut Don Pettit](https://www.nasa.gov/image-article/milky-way-on-the-horizon/), serves as a powerful reminder of our smallness and interconnectedness, especially in light of ongoing crises—from pressing environmental concerns to escalating geopolitical tensions.
-
-I’ve always been fascinated by technology, even during years when I felt far from it, envisioning a future where innovation helps us understand our place in the cosmos. It’s intriguing to consider how our tools can connect us significantly, yet we often act as if we lack direction, collectively harming our only source of life.
-
-Choosing to live ethically reflects my personal journey toward greater consciousness, notably by switching to a vegan consumption commitment (unless one genuinely seeks to understand, I won't delve into it). I believe we can all thrive by taking profound actions, no matter how modest, as it's about finding meaning in our small selves. Take a look at [Pale Blue Dot by NASA’s Voyager 1 spacecraft](https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/), you'll see there’s ample room for reflection on our shared journey.
-
-
-<br /><br /><br />
-
+<br />
+<br />
 
 Index
 ----------------------------------------------------------------
+
+<br />
 
 > [!NOTE]
 > **Only non-proprietary materials from 2023 onwards are listed here**.
 >
 > _Between 2016 and 2022, I didn't dare to publicly share my progress as a self-taught individual._
-
-<br />
 
 ### Working
 - Tips
@@ -104,8 +156,6 @@ Index
         - [Pull Repositories with Bash](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pullrepositorieswithbash-en.sh)
     - Virtualization
         - [File Transfer from a Windows Host to a Linux Virtual Machine](https://github.com/j5py/notes/blob/main/see/facility-vm-personal-filetransferfromhost-en.md)
-
-<br />
 
 ### Training
 
@@ -148,9 +198,19 @@ Index
             - [Web Fundamentals](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-webfundamentals-en.txt)
             - [Pre Security](https://github.com/j5py/notes/blob/main/see/lesson-many-tryhackme-presecurity-en.txt)
 
-<br />
-
 > [!CAUTION]
 > **Any repository or link accessible from this GitHub account related to Offensive Cybersecurity is potentially impactful. Such resources should never be used outside of a controlled testing environment. They are intended solely for study and skill enhancement, thereby promoting the integrity of Information Systems**
 >
 > _Unless you are a Cybersecurity Professional acting preventively in a legal environment, you could put yourself in a reprehensible and potentially high-risk situation by acting inconsiderately. Be humble; any use engages your own responsibility._
+
+<br />
+<br />
+
+Epilogue
+----------------------------------------------------------------
+
+<br />
+
+![Milky Way appearing beyond Earth’s horizon by NASA astronaut Don Pettit](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/milky-way-appearing-beyond-earths-horizon-by-nasa-astronaut-don-pettit.jpg)
+
+[Milky Way appearing beyond Earth’s horizon by NASA astronaut Don Pettit](https://www.nasa.gov/image-article/milky-way-on-the-horizon/), taken from the ISS, is the picture that has amazed me the most to this day and powerfully reminds me of where we live. I share this to encourage greater awareness of how connected and interdependent we are with every form of life on this [Pale Blue Dot](https://science.nasa.gov/mission/voyager/voyager-1s-pale-blue-dot/).
