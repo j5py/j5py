@@ -41,7 +41,7 @@ Synopsis
     <tbody>
         <tr>
             <td>2026</td>
-            <td rowspan="4">Cloud and Development</td>
+            <td rowspan="4">Cloud / Development</td>
             <td rowspan="3">Working</td>
             <td rowspan="2">Full-Stack Web Developer</td>
         </tr>
@@ -64,10 +64,10 @@ Synopsis
             <td rowspan="2">2023</td>
         </tr>
         <tr>
-            <td rowspan="10">Development and Data</td>
+            <td rowspan="10">Development / Data</td>
             <td rowspan="7">Working</td>
             <td rowspan="4">
-                Customer Solutions and Support Engineer
+                Customer Solutions / Support Engineer
             </td>
         </tr>
         <tr>
