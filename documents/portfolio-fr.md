@@ -373,7 +373,7 @@ Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler
 
 <br />
 
-### Réflexion
+### Réflexion et Intuition
 
 - **Cartographie Mentale**: Visualiser des idées et leurs relations pour organiser les pensées et stimuler la créativité.
 - **Pensée Globale**: Se concentrer sur les objectifs généraux et la vision à long terme plutôt que sur les détails immédiats.

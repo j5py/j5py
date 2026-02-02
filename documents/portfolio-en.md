@@ -374,7 +374,7 @@ I possess an intuitive and synthetic ability that allows me to detect often invi
 
 <br />
 
-#### Thinking
+#### Reflection and Intuition
 
 - **Mind Mapping**: Visualizing ideas and their relationships to organize thoughts and enhance creativity.
 - **Big-Picture Thinking**: Focusing on overarching goals and long-term vision rather than immediate details.
