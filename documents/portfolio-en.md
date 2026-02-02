@@ -37,7 +37,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 1. A few years of experience in Data Collection and Support, followed by an intensive journey in Information Security
 1. Given the amplitude of Penetration Testing studies, focused on Cloud-native Technologies for tangible results
     1. Since mid-April 2025, Web Developer for a platform dedicated to IoT Security, an enriching opportunity
-        1. :bookmark: **Starting mid-April 2026, at the end of my 12-month contract, available to support new projects** :satellite:
+        1. :pushpin: **Starting mid-April 2026, at the end of my 12-month contract, available to support new projects**
 
 <br />
 
@@ -57,9 +57,12 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 <br />
 
 > [!TIP]
-> Search for the icon that looks like `☰` in the top right corner to access the **Table of Contents**.
+> Search for the icon that looks like `☰` in the top right corner to access the **Table of Contents**  :arrow_upper_right:
 >
-> _It's preferable to view this document on a large screen._
+> This document is divided into two sections, presenting the same path in different ways.
+> - A - Technology Overview (Tabular)
+> - B - Relevant Experience (Narrative)
+
 
 <br />
 <br />

@@ -37,7 +37,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 1. Quelques années d'expérience en Collecte de Données et Support, suivies d'un parcours intensif en Sécurité de l'Information
 1. Face à l'ampleur de mes études en Test d'Intrusion, recentrage sur les Technologies Cloud pour des résultats tangibles
     1. Depuis mi-avril 2025, Développeur Web pour une plateforme dédiée à la Sécurité IoT, une opportunité enrichissante
-        1. :bookmark: **Dès mi-avril 2026, à la fin du CDD de 12 mois, disponible pour soutenir de nouveaux projets** :satellite:
+        1. :pushpin: **Dès mi-avril 2026, à la fin du CDD de 12 mois, disponible pour soutenir de nouveaux projets**
 
 <br />
 
@@ -57,9 +57,11 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 <br />
 
 > [!TIP]
-> Accédez à la **Table des Matières** pour une navigation optimale, via l'icône `☰` en haut à droite.
+> Accédez à la **Table des Matières** pour une navigation optimale, via l'icône `☰` en haut à droite :arrow_upper_right:
 >
-> _Il est préférable de consulter ce document sur un écran large._
+> Ce document est divisé en deux sections, présentant le même parcours de façon différente:
+> - A - Aperçu Technologique (Tabulaire)
+> - B - Expérience Pertinente (Narrative)
 
 <br />
 <br />
