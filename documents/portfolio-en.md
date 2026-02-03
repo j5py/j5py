@@ -1,9 +1,13 @@
 
+
 <br />
+<br />
+
 
 # Sylvain DEMAIMAY
 
-[Back to Home](https://github.com/j5py) | [Aller à la Version Française](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
+[Back to Home](https://github.com/j5py) | [Version Française](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
+
 
 <br />
 <br />
@@ -29,8 +33,6 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 <br />
 
-
-
 ### Career Path
 
 1. A decade spent refining my Upselling Skills in Bars before my initial training in Web Development
@@ -41,20 +43,17 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 <br />
 
-
-
 ### Perspectives
-
 
 1. **Eager**: Full Stack Developer
 2. **Keen**: Technical Support Engineer
 3. **Open**: Penetration Tester
 
 
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
 
 > [!TIP]
 > Search for the icon that looks like `☰` in the top right corner to access the **Table of Contents**  :arrow_upper_right:
@@ -69,17 +68,13 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 <br />
 
 
-
 ## Evolution
 
 <br />
 
-
-
 ### A - Technology Overview (Tabular)
 
 > _The Client-Side, Server-Side, and Workspace columns aim to simplify categorization, which may make the distribution of tags somewhat arbitrary and open to debate. While complete exhaustiveness was hardly possible, I might have overlooked key concepts or cluttered the table in my attempt to provide a detailed overview of my journey._
-
 
 <br />
 
@@ -102,8 +97,10 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 | 2024 / Study | [User Story](https://github.com/j5py/agile/blob/main/.github/ISSUE_TEMPLATE/user-story.md) for [GitHub Issues](https://github.com/j5py/agile/issues?q=is%3Aissue+is%3Aclosed) and **ZenHub**, Assessed by [screenshots](https://github.com/j5py/agile/tree/main/screenshots) as the Final Project of **IBM**'s _Cloud Native, DevOps, Agile, and NoSQL_ <br /><br /> Certificate under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> [Basics from a Lesson on Jasmine](https://github.com/j5py/notes/blob/main/see/lesson-js-ibm-jasmine-en.txt) for Test-Driven Development | Building Solid Foundations in Cloud-Native Solutions to Evolve, Embracing Key Concepts in Software Development and Current Practices | | `CloudComputing`  `DevOps` `NoSQL` `MongoDB` `UnitTests` `Jasmine` `CI/CD` `Docker` `Dockerfile` `Image` `Container` `Tekton` `Pipeline` `Packaging` `Deploying` |`CloudBasedIDE` `IBMCloud` `CLI` `Git` `GitHub` `GitHubIssues` `UserStories` `ZenHub` `Agile` |
 | 2024 / Study | Extensive [JavaScript for Client-side Data Collection](https://github.com/j5py/notes/blob/main/see/facility-js-personal-datacollectionclientside-en.md) Based on My Experience and for Demonstration Purposes <br /><br /> [Asynchronous JavaScript Quick Reference](https://github.com/j5py/notes/blob/main/see/lesson-js-coursera-asynchronous-en.md) Based on a **Coursera** Lesson | Redirecting My Focus Towards Development by Strengthening My Foundations and Practicing My Key Skill, JavaScript, with a Focus on Tracking Client-Side Data | `Asynchronous` `JavaScript` `AJAX` `XML` `JSON` `API` `HTTP` `StatusCodes` `XHR` `Promises` `FetchAPI` `Binding` `async` `await` `ErrorHandling` `then` `catch` `Axios` `Authentication` `Token` `CORS` `CSRF` `TagManagementSystem` `ThirdPartyAnalytics` `ScriptLoading` `QueryString` `SPA` `Subdomains` `Iframe` `Webview` `Scroll` `ElementDisplay` `StyleAttribute` `localStorage` `cookies` `ABTesting` `RandomGeneration` | | `macOS` `SelfDescriptiveCode ` `VisualStudioCode` `CLI` `Git` `GitHub` `Markdown` |
 
+
 <br />
 <br />
+
 
 #### 2023-2024
 
@@ -121,8 +118,10 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 | 2023 / Study | Complete PDF of _**Last day of bootcamp: Shellshock, a classic.**_ under [in/projects](https://www.linkedin.com/in/j5py/details/projects/) <br /><br /> Certificates under **Jedha Bootcamp** on [in/education](https://www.linkedin.com/in/j5py/details/education/) | Information Security Bootcamp in Penetration Testing covering Reconnaissance, Network and Systems, Assessment, Exploitation, and Defensive Measures | `GoogleDorking` `WaybackMachine` `GitHub` `S3` `CVE` `ExploitDB` `dnsrecon` `ffuf` `gobuster` `BurpSuite` `DevTools` `HTTP` `JavaScript` `SQLi` `IDOR` `LFI` `RFI` `PathTraversal` `WebShell` `RCE` `SSRF` `XSS` `Phishing` | `TCP/IP` `OSI` `MAC` `ARP` `DHCP` `Ethernet` `IP` `ICMP` `OSPF` `RIP` `TCP` `UDP` `Wireshark` `Nmap` `Netcat` `SSH` `Bash` `Zsh` `ShellScripting` `GNU/Linux` `PowerShell` `CommandPrompt` `PHP` `Python` `Metasploit` `msfconsole` `Msfvenom` `Meterpreter` `DDoS` `MITM` `Spoofing` `Shodan` `Aircrack` `Hydra` `Nessus` `JohnTheRipper` `Sqlmap` `hashcat` `XML` `JSON` `Unicode` `Binary` `Hexadecimal` `FTP` `HTTP` `Telnet` `DNS` `SMTP` `POP3` `IMAP` `SSL` `TLS` | `Windows` `macOS` `VirtualBox` `AWS` `VM` `KaliLinux` `Docker` `Vulhub` `VPNTestLab` `GoogleSlides` `Discord` |
 | 2023 / Study | Learning initiative _**Shell Scripting Basics**_ at [j5py/notes..sh..](https://github.com/j5py/notes/blob/main/see/lesson-sh-coursera-shellscriptingbasics-en.md) <br /><br /> Certificates under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> Use Case for [Updating All Repositories in a Directory with One Command](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pulldirectoryrepositories-en.sh) | Professional Development Preparatory Course for Linux Shell Scripting and Command Line Proficiency, plus Vim | | | `CloudBasedVM` `GNU/Linux` `Shell` `Bash` `Zsh` `Vim` `Git` `GitHub` `Markdown` |
 
+
 <br />
 <br />
+
 
 #### 2018-2022
 
@@ -141,16 +140,15 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 | 2019 / Work | Proprietary | JavaScript for Client-Side Data Retrieval, User Consent, and Various Tracking Needs | `JavaScript` `DevTools` `DOM` `Network` `cookies` `GoogleTagManager` `GoogleAnalytics` `TagCommander` | | `Windows` `Atom` `GSuite` |
 | 2018 / Study | [Very First Project, with Symfony](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md#symfony-final-project) | PHP/Symfony Multi-Page CV Website with Chat, Game, and Forms | `HTML` `CSS` `jQuery` | `PHP` `Symfony3` `ApacheHTTPServer` `SQL` | `macOS` `Unix` `CLI` `MySQL` `Atom` |
 
-<br />
-<br />
-<br />
 
+<br />
+<br />
+<br />
 
 
 ### B - Relevant Experience (Narrative)
 
 > _Highlight the most pertinent milestones, as previously, the same trajectory, but in a more descriptive and insightful way._
-
 
 <br />
 
@@ -196,6 +194,7 @@ I adapted in an **intricate environment using TypeScript, React, and Node.js, bu
 
 Besides adapting to a broader and far more complex environment than I had previously encountered, which was both expected and challenging, I relied on my analytical thinking while navigating with occasional guidance in a few simpler tasks for which **I structured project management, its change flow and quality assessments**, to enhance communication and improve resolution times.
 
+
 <br />
 <br />
 
@@ -216,6 +215,7 @@ From September to November, at a high-growth startup, my expertise was anticipat
 ##### Assistant/Intern for a Bootcamp
 
 In July, I undertook a brief freelance mission as a Teacher Assistant at Jedha Bootcamp, where I provided foundational knowledge to beginners, explaining concepts to help them grasp more advanced techniques delivered by the instructors. As **I needed to transition into a stable full-time position** after nearly 18 months of professional development, I couldn't fully dedicate myself to a role that required significantly more time and personal investment than a part-time internship.
+
 
 <br />
 <br />
@@ -274,6 +274,7 @@ At Jedha Bootcamp, I focused on Kali Linux for Vulnerability Assessments, suppor
 
 Having proactively managed administrative tasks to start my training as soon as possible, I spent the last few weeks on Coursera refining my foundations with _Command Line Basics in Linux_, discovering _Introduction to Bash Shell Scripting_, and exploring _Practical Vim Editor Commands on Linux_ (anticipating scenarios where interaction with this editor is the only option).
 
+
 <br />
 <br />
 
@@ -299,6 +300,7 @@ The intricacies of consent cycles and triggering third-party solutions, along wi
 ###### Support Response Library
 
 To address the recurrence of topics (routines, common issues, or industry changes) and free up time for more advanced resolutions, refine responses, and eliminate errors, **I took the initiative to optimize. To maintain a collection of text responses and JavaScript codes** aimed at continuous improvement with versioning, I created a private repository on a dedicated GitHub account. Although I had accumulated the files, this personal solution required a collaborative approach to be completed. I handed over all the files to the Product Owner upon my departure.
+
 
 <br />
 <br />
@@ -331,6 +333,7 @@ Consulted for a major modification of the Renault France homepage, the agency's 
 ###### JavaScript Solutions
 
 Tag Management Systems facilitate the orchestration of third-party solutions by providing an entry point through a container script, but they only cover the most common cases. I offered simple and reliable solutions, with numerous JavaScript snippets to address various needs.
+
 
 <br />
 <br />
@@ -371,8 +374,6 @@ As a capstone project, I developed a CV website using Symfony 3, **my very first
 ### Core Competencies
 
 I possess an intuitive and synthetic ability that allows me to detect often invisible frictions in processes, which triggers in me lateral thinking, followed by creativity and innovation.
-
-<br />
 
 #### Reflection and Intuition
 
