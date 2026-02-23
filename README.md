@@ -134,6 +134,10 @@ Index
 >
 > _Between 2016 and 2022, I didn't dare to publicly share my progress as a self-taught individual._
 
+<br />
+
+<a href="https://www.buymeacoffee.com/j5py" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ### Working
 - Tips
     - [Web Development and Linux](https://github.com/j5py/notes/blob/main/see/facility-many-personal-webdevelopmentandlinux-en.md)

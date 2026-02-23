@@ -411,7 +411,9 @@ Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler
 
 Merci de votre passage !
 
-[Haut](#sylvain-demaimay) | [Accueil](https://github.com/j5py) | [LinkedIn](https://www.linkedin.com/in/j5py/)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K21TOAP9)
+
+[Haut](#sylvain-demaimay) | [Accueil](https://github.com/j5py) | [LinkedIn](https://www.linkedin.com/in/j5py/) 
 
 > _Vous pourriez être curieux quant à la signification de l'identifiant_ `j5py`_, qui s'inspire de_ `js` _et_ `py` _pour JavaScript et Python. En ce qui concerne la photo de profil, j'apprécie ce qu'elle véhicule, elle provient de l'album 'Fascinated by The Chaos' de Nomenklatür, que j'ai écouté durant les années précédant ma formation._
 

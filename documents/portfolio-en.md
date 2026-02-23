@@ -411,6 +411,8 @@ I possess an intuitive and synthetic ability that allows me to detect often invi
 
 Thanks for stopping by!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K21TOAP9)
+
 [Top](#sylvain-demaimay) | [Home](https://github.com/j5py) | [LinkedIn](https://www.linkedin.com/in/j5py/)
 
 > _You might be curious about the identifier_ `j5py`_, which draws inspiration from_ `js` _and_ `py` _for JavaScript and Python. As for the profile picture, I appreciate what it conveys; it comes from the album 'Fascinated by The Chaos' by Nomenklatür, which I listened to in the years leading up to my training._
