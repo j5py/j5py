@@ -104,9 +104,10 @@ Synopsis
             <td colspan="3" rowspan="4">
                 Background of limited support and no formal education,
                 navigating low-paying jobs before transitioning to bars
-                (occasionally achieving significant earnings but often
+                (occasionally achieving significant earnings<sup>*</sup> but often
                 facing high turnover). At that point, I had never really
-                used a computer.<br />
+                used a computer.<br /><br />
+                <sup>*</sup> <i>I was a very persuasive seller without being pushy</i>
             </td>
         </tr>
         <tr>
