@@ -1,10 +1,6 @@
-
-
-
 <br />
 
-Sylvain DEMAIMAY
-================================================================
+# Sylvain DEMAIMAY
 
 ![Cloud-native Development, Data Collection, Penetration Testing, at linkedin.com/in/j5py](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/Sylvain_Demaimay_Banner.png)
 
@@ -13,8 +9,7 @@ _You might think there's not much here yet, but look closer—the roots run deep
 <br />
 <br />
 
-Experience
-----------------------------------------------------------------
+## Experience
 
 <br />
 
@@ -32,8 +27,7 @@ Experience
 <br />
 <br />
 
-Synopsis
-----------------------------------------------------------------
+## Synopsis
 
 <br />
 
@@ -125,8 +119,7 @@ Synopsis
 <br />
 <br />
 
-Index
-----------------------------------------------------------------
+## Index
 
 <br />
 
@@ -137,9 +130,10 @@ Index
 
 <br />
 
-<a href="https://www.buymeacoffee.com/j5py" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://buymeacoffee.com/sylvain.ig" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Working
+
 - Tips
     - [Web Development and Linux](https://github.com/j5py/notes/blob/main/see/facility-many-personal-webdevelopmentandlinux-en.md)
 - Tests
@@ -211,8 +205,7 @@ Index
 <br />
 <br />
 
-Epilogue
-----------------------------------------------------------------
+## Epilogue
 
 <br />
 
