@@ -2,10 +2,23 @@
 
 # Sylvain DEMAIMAY
 
-![Cloud-native Development, Data Collection, Penetration Testing, at linkedin.com/in/j5py](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/Sylvain_Demaimay_Banner.png)
+[![Cloud-native Development, Data Collection, Penetration Testing, at linkedin.com/in/j5py](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/Sylvain_Demaimay_Banner.png)](https://www.linkedin.com/in/j5py/)
 
 _You might think there's not much here yet, but look closer—the roots run deep, though the journey ahead looks even longer!_
 
+<br />
+<br />
+<br />
+
+## Guide pratique d'hygiène numérique
+
+[![Se protéger sur internet sans la technique — Sylvain Demaimay](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/Se-proteger-sur-internet-sans-la-technique.png)](https://payhip.com/b/s4gSP)
+
+Mille et un jours pour récupérer son identité quand quelqu'un d'autre agit sous votre nom. Ce guide vous donne en 72 pages ce qu'il fallait savoir avant : comprendre ce que vos données révèlent de vous, sécuriser vos accès, reconnaître les tentatives d'arnaque, protéger vos proches — sans jargon, sans bagage technique, avec un plan d'action sur trente jours.
+
+[Se protéger sur internet sans la technique — Sylvain Demaimay](https://payhip.com/b/s4gSP)
+
+<br />
 <br />
 <br />
 
@@ -24,10 +37,9 @@ _You might think there's not much here yet, but look closer—the roots run deep
 [Check out the complete and structured details of my journey](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
 
 <br />
-<br />
-<br />
 
-## Synopsis
+
+### Synopsis
 
 <br />
 

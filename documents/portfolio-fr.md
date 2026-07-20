@@ -415,6 +415,6 @@ Merci de votre passage !
 
 [Haut](#sylvain-demaimay) | [Accueil](https://github.com/j5py) | [LinkedIn](https://www.linkedin.com/in/j5py/) 
 
-> _Vous pourriez être curieux quant à la signification de l'identifiant_ `j5py`_, qui s'inspire de_ `js` _et_ `py` _pour JavaScript et Python. En ce qui concerne la photo de profil, j'apprécie ce qu'elle véhicule, elle provient de l'album 'Fascinated by The Chaos' de Nomenklatür, que j'ai écouté durant les années précédant ma formation._
+> _Vous pourriez être curieux quant à la signification de l'identifiant_ `j5py`_, qui s'inspire de_ `js` _et_ `py` _pour JavaScript et Python._
 
 <br />
