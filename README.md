@@ -162,6 +162,7 @@ Mille et un jours pour récupérer son identité quand quelqu'un d'autre agit so
         - [RUNME.py CLI Tool for Sorting Unique README Links (latest—object-oriented)](https://github.com/j5py/list/blob/main/RUNME.py)
         - [RUNME.py CLI Tool for Sorting Unique README Links (previous—procedural)](https://github.com/j5py/list/blob/c5f177b6c63d29286223ae9f879363053b3f9d1e/RUNME.py)
     - Shell
+        - [USB Drive Encryption on Ubuntu with LUKS](https://github.com/j5py/notes/blob/main/see/facility-ubuntu-personal-usbdriveencryption-en.md)
         - [Hyphenated Lowercase with Bash (to build branch names—likely to be rewritten as a Node.js tool)](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-hyphenatedlowercasewithbash-en.sh)
         - [Pull Repositories with Z shell (Zsh)](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pullrepositorieswithzsh-en.sh)
         - [Pull Repositories with Bash](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pullrepositorieswithbash-en.sh)
