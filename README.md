@@ -46,16 +46,27 @@ Mille et un jours pour récupérer son identité quand quelqu'un d'autre agit so
 <table>
     <tbody>
         <tr>
+            <td>...</td>
+            <td rowspan="7">Cloud / Development</td>
+            <td rowspan="6">Working</td>
+            <td rowspan="3">
+                Founder / Product and Full Stack Developer
+            </td>
+        </tr>
+        <tr>
+            <td>2027</td>
+        </tr>
+        <tr>
             <td>2026</td>
-            <td rowspan="4">Cloud / Development</td>
-            <td rowspan="3">Working</td>
-            <td rowspan="2">Full-Stack Web Developer</td>
         </tr>
         <tr>
             <td>2025</td>
+            <td rowspan="2">Full-Stack Web Developer</td>
         </tr>
         <tr>
-            <td rowspan="3">2024</td>
+            <td rowspan="4">2024</td>
+        </tr>
+        <tr>
             <td>Customer Success Manager</td>
         </tr>
         <tr>
@@ -107,20 +118,12 @@ Mille et un jours pour récupérer son identité quand quelqu'un d'autre agit so
             <td rowspan="2">2016</td>
         </tr>
         <tr>
-            <td colspan="3" rowspan="4">
-                Background of limited support and no formal education,
-                navigating low-paying jobs before transitioning to bars
-                (occasionally achieving significant earnings<sup>*</sup> but often
-                facing high turnover). At that point, I had never really
-                used a computer.<br /><br />
-                <sup>*</sup> <i>I was a very persuasive seller without being pushy</i>
+            <td colspan="3" rowspan="3">
+                At that point, I had never really used a computer: Background of no formal education, navigating low-paying jobs before transitioning to bars (occasionally achieving significant earnings—I was a very persuasive seller without being pushy—but often facing high turnover).
             </td>
         </tr>
         <tr>
             <td>2015</td>
-        </tr>
-        <tr>
-            <td>2014</td>
         </tr>
         <tr>
             <td>...</td>
