@@ -10,18 +10,6 @@ _You might think there's not much here yet, but look closer—the roots run deep
 <br />
 <br />
 
-## Guide pratique d'hygiène numérique
-
-[![Se protéger sur internet sans la technique — Sylvain Demaimay](https://raw.githubusercontent.com/j5py/j5py/refs/heads/main/images/Se-proteger-sur-internet-sans-la-technique.png)](https://payhip.com/b/s4gSP)
-
-Mille et un jours pour récupérer son identité quand quelqu'un d'autre agit sous votre nom. Ce guide vous donne en 72 pages ce qu'il fallait savoir avant : comprendre ce que vos données révèlent de vous, sécuriser vos accès, reconnaître les tentatives d'arnaque, protéger vos proches — sans jargon, sans bagage technique, avec un plan d'action sur trente jours.
-
-[Se protéger sur internet sans la technique — Sylvain Demaimay](https://payhip.com/b/s4gSP)
-
-<br />
-<br />
-<br />
-
 ## Experience
 
 <br />
