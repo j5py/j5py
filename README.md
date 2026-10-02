@@ -28,16 +28,15 @@ _You might think there's not much here yet, but look closer—the roots run deep
 
 <br />
 
-### :fr: Parcours Technologique
-
-[Consultez les détails complets et structurés de mon parcours](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
-
-<br />
-
 ### :uk: Technological Journey
 
 [Check out the complete and structured details of my journey](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
 
+<br />
+
+### :fr: Parcours Technologique
+
+[Consultez les détails complets et structurés de mon parcours](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
 
 <br />
 <br />
