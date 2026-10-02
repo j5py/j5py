@@ -15,21 +15,11 @@
 
 ## Executive Summary
 
-**Developer expert in Tracking and Security, the perfect choice for those who value insatiable curiosity and lifelong learning**.
+<br />
 
-Having explored different roles across an agency, a publisher, and a startup, I have confirmed a strong preference for primarily technical roles. Evolving from entry-level jobs to my last roles has demonstrated a strong ability to learn. Now, after a rich self-taught journey, I prioritize job stability and aim to grow with a company for our mutual success. I am mainly targeting fully remote positions while recognizing the value of occasional in-person meetings to foster better connections; therefore, I am also open to hybrid opportunities.
+**Founder, Product and Full Stack Developer, building a cross-platform SaaS alone, specification first.**
 
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height: 64px; width: 64px;" />
-</p>
+Since April 2026, I have been working alone, full-time, on a cross-platform B2C SaaS. I proceeded in the order that seemed most logical to me. First the persuasion framework, to make sure I knew how to talk about my product, then how to sell it. Then preliminary yet in-depth market studies, to check the project's prospects. And finally the product specification. Nothing is developed until the product is specified in full, with every screen, rule and user journey reasoned through and documented in a single reference. Each feature goes from mind map to flowchart to wireframe. My test for completeness: an engineer or a partner can join the project and be operational immediately.
 
 <br />
 
@@ -38,16 +28,8 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 1. A decade spent refining my Upselling Skills in Bars before my initial training in Web Development
 1. A few years of experience in Data Collection and Support, followed by an intensive journey in Information Security
 1. Given the amplitude of Penetration Testing studies, focused on Cloud-native Technologies for tangible results
-    1. Since mid-April 2025, Web Developer for a platform dedicated to IoT Security, an enriching opportunity
-        1. :pushpin: **Starting mid-April 2026, at the end of my 12-month contract, available to support new projects**
-
-<br />
-
-### Perspectives
-
-1. **Eager**: Full Stack Developer
-2. **Keen**: Technical Support Engineer
-3. **Open**: Penetration Tester
+    1. From mid-April 2025 to mid-April 2026, Web Developer for a platform dedicated to IoT Security, an enriching opportunity
+        1. :pushpin: **Since mid-April 2026, full-time Founder of a cross-platform B2C SaaS**
 
 
 <br />
@@ -82,6 +64,9 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 
 ##### Cloud and Development
 
+<details>
+<summary>Table display</summary>
+
 <br />
 
 | Ended / Type | Content | Focus | Client-Side | Server-Side | Workspace |
@@ -97,6 +82,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 | 2024 / Study | [User Story](https://github.com/j5py/agile/blob/main/.github/ISSUE_TEMPLATE/user-story.md) for [GitHub Issues](https://github.com/j5py/agile/issues?q=is%3Aissue+is%3Aclosed) and **ZenHub**, Assessed by [screenshots](https://github.com/j5py/agile/tree/main/screenshots) as the Final Project of **IBM**'s _Cloud Native, DevOps, Agile, and NoSQL_ <br /><br /> Certificate under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> [Basics from a Lesson on Jasmine](https://github.com/j5py/notes/blob/main/see/lesson-js-ibm-jasmine-en.txt) for Test-Driven Development | Building Solid Foundations in Cloud-Native Solutions to Evolve, Embracing Key Concepts in Software Development and Current Practices | | `CloudComputing`  `DevOps` `NoSQL` `MongoDB` `UnitTests` `Jasmine` `CI/CD` `Docker` `Dockerfile` `Image` `Container` `Tekton` `Pipeline` `Packaging` `Deploying` |`CloudBasedIDE` `IBMCloud` `CLI` `Git` `GitHub` `GitHubIssues` `UserStories` `ZenHub` `Agile` |
 | 2024 / Study | Extensive [JavaScript for Client-side Data Collection](https://github.com/j5py/notes/blob/main/see/facility-js-personal-datacollectionclientside-en.md) Based on My Experience and for Demonstration Purposes <br /><br /> [Asynchronous JavaScript Quick Reference](https://github.com/j5py/notes/blob/main/see/lesson-js-coursera-asynchronous-en.md) Based on a **Coursera** Lesson | Redirecting My Focus Towards Development by Strengthening My Foundations and Practicing My Key Skill, JavaScript, with a Focus on Tracking Client-Side Data | `Asynchronous` `JavaScript` `AJAX` `XML` `JSON` `API` `HTTP` `StatusCodes` `XHR` `Promises` `FetchAPI` `Binding` `async` `await` `ErrorHandling` `then` `catch` `Axios` `Authentication` `Token` `CORS` `CSRF` `TagManagementSystem` `ThirdPartyAnalytics` `ScriptLoading` `QueryString` `SPA` `Subdomains` `Iframe` `Webview` `Scroll` `ElementDisplay` `StyleAttribute` `localStorage` `cookies` `ABTesting` `RandomGeneration` | | `macOS` `SelfDescriptiveCode ` `VisualStudioCode` `CLI` `Git` `GitHub` `Markdown` |
 
+</details>
 
 <br />
 <br />
@@ -105,6 +91,9 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 #### 2023-2024
 
 ##### Information Security
+
+<details>
+<summary>Table display</summary>
 
 <br />
 
@@ -118,6 +107,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 | 2023 / Study | Complete PDF of _**Last day of bootcamp: Shellshock, a classic.**_ under [in/projects](https://www.linkedin.com/in/j5py/details/projects/) <br /><br /> Certificates under **Jedha Bootcamp** on [in/education](https://www.linkedin.com/in/j5py/details/education/) | Information Security Bootcamp in Penetration Testing covering Reconnaissance, Network and Systems, Assessment, Exploitation, and Defensive Measures | `GoogleDorking` `WaybackMachine` `GitHub` `S3` `CVE` `ExploitDB` `dnsrecon` `ffuf` `gobuster` `BurpSuite` `DevTools` `HTTP` `JavaScript` `SQLi` `IDOR` `LFI` `RFI` `PathTraversal` `WebShell` `RCE` `SSRF` `XSS` `Phishing` | `TCP/IP` `OSI` `MAC` `ARP` `DHCP` `Ethernet` `IP` `ICMP` `OSPF` `RIP` `TCP` `UDP` `Wireshark` `Nmap` `Netcat` `SSH` `Bash` `Zsh` `ShellScripting` `GNU/Linux` `PowerShell` `CommandPrompt` `PHP` `Python` `Metasploit` `msfconsole` `Msfvenom` `Meterpreter` `DDoS` `MITM` `Spoofing` `Shodan` `Aircrack` `Hydra` `Nessus` `JohnTheRipper` `Sqlmap` `hashcat` `XML` `JSON` `Unicode` `Binary` `Hexadecimal` `FTP` `HTTP` `Telnet` `DNS` `SMTP` `POP3` `IMAP` `SSL` `TLS` | `Windows` `macOS` `VirtualBox` `AWS` `VM` `KaliLinux` `Docker` `Vulhub` `VPNTestLab` `GoogleSlides` `Discord` |
 | 2023 / Study | Learning initiative _**Shell Scripting Basics**_ at [j5py/notes..sh..](https://github.com/j5py/notes/blob/main/see/lesson-sh-coursera-shellscriptingbasics-en.md) <br /><br /> Certificates under **Coursera** on [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> Use Case for [Updating All Repositories in a Directory with One Command](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pulldirectoryrepositories-en.sh) | Professional Development Preparatory Course for Linux Shell Scripting and Command Line Proficiency, plus Vim | | | `CloudBasedVM` `GNU/Linux` `Shell` `Bash` `Zsh` `Vim` `Git` `GitHub` `Markdown` |
 
+</details>
 
 <br />
 <br />
@@ -126,6 +116,9 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 #### 2018-2022
 
 ##### Development and Data
+
+<details>
+<summary>Table display</summary>
 
 <br />
 
@@ -140,6 +133,7 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 | 2019 / Work | Proprietary | JavaScript for Client-Side Data Retrieval, User Consent, and Various Tracking Needs | `JavaScript` `DevTools` `DOM` `Network` `cookies` `GoogleTagManager` `GoogleAnalytics` `TagCommander` | | `Windows` `Atom` `GSuite` |
 | 2018 / Study | [Very First Project, with Symfony](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md#symfony-final-project) | PHP/Symfony Multi-Page CV Website with Chat, Game, and Forms | `HTML` `CSS` `jQuery` | `PHP` `Symfony3` `ApacheHTTPServer` `SQL` | `macOS` `Unix` `CLI` `MySQL` `Atom` |
 
+</details>
 
 <br />
 <br />
@@ -153,6 +147,11 @@ Having explored different roles across an agency, a publisher, and a startup, I 
 <br />
 
 #### Employment 2025-2026
+
+<details>
+<summary>Text display</summary>
+
+<br />
 
 ##### Full-Stack Web Developer for a Platform
 
@@ -174,7 +173,7 @@ Growing through my journey with the CyberPass platform by Red Alert Labs facilit
 
 ###### Last Quarter
 
-Currently in progress, the last quarter began well from the very first days with **a renewed focus on Web Development** (React, TanStack Query, API and Node.js).
+The last quarter brought a **renewed focus on Web Development** (React, TanStack Query, API and Node.js).
 
 ###### Third Quarter
 
@@ -194,12 +193,18 @@ I adapted in an **intricate environment using TypeScript, React, and Node.js, bu
 
 Besides adapting to a broader and far more complex environment than I had previously encountered, which was both expected and challenging, I relied on my analytical thinking while navigating with occasional guidance in a few simpler tasks for which **I structured project management, its change flow and quality assessments**, to enhance communication and improve resolution times.
 
+</details>
 
 <br />
 <br />
 
 
 #### Employment 2024
+
+<details>
+<summary>Text display</summary>
+
+<br />
 
 Following a period of personal growth and increased self-awareness, I aimed to explore my human qualities in a professional context. Through these experiences, I gained insights into my aspirations: **writing code makes me happy and fulfilled**. Until now, I had mostly taken service-oriented roles, which often felt misaligned with my true focus on technical excellence. **I am eager to shift towards Web Development**, where my technical strengths can finally shine in a role that truly reflects my skills and interests.
 
@@ -216,12 +221,18 @@ From September to November, at a high-growth startup, my expertise was anticipat
 
 In July, I undertook a brief freelance mission as a Teacher Assistant at Jedha Bootcamp, where I provided foundational knowledge to beginners, explaining concepts to help them grasp more advanced techniques delivered by the instructors. As **I needed to transition into a stable full-time position** after nearly 18 months of professional development, I couldn't fully dedicate myself to a role that required significantly more time and personal investment than a part-time internship.
 
+</details>
 
 <br />
 <br />
 
 
 #### Training 2023-2024
+
+<details>
+<summary>Text display</summary>
+
+<br />
 
 ##### Cloud-native Development 2024
 
@@ -274,12 +285,18 @@ At Jedha Bootcamp, I focused on Kali Linux for Vulnerability Assessments, suppor
 
 Having proactively managed administrative tasks to start my training as soon as possible, I spent the last few weeks on Coursera refining my foundations with _Command Line Basics in Linux_, discovering _Introduction to Bash Shell Scripting_, and exploring _Practical Vim Editor Commands on Linux_ (anticipating scenarios where interaction with this editor is the only option).
 
+</details>
 
 <br />
 <br />
 
 
 #### Employment 2020-2023
+
+<details>
+<summary>Text display</summary>
+
+<br />
 
 ![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat&logo=google-chrome&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -301,12 +318,18 @@ The intricacies of consent cycles and triggering third-party solutions, along wi
 
 To address the recurrence of topics (routines, common issues, or industry changes) and free up time for more advanced resolutions, refine responses, and eliminate errors, **I took the initiative to optimize. To maintain a collection of text responses and JavaScript codes** aimed at continuous improvement with versioning, I created a private repository on a dedicated GitHub account. Although I had accumulated the files, this personal solution required a collaborative approach to be completed. I handed over all the files to the Product Owner upon my departure.
 
+</details>
 
 <br />
 <br />
 
 
 #### Employment 2018-2020
+
+<details>
+<summary>Text display</summary>
+
+<br />
 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FBBA00?style=flat&logo=google-analytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-00796B?style=flat&logo=google-tag-manager&logoColor=white)
@@ -334,12 +357,18 @@ Consulted for a major modification of the Renault France homepage, the agency's 
 
 Tag Management Systems facilitate the orchestration of third-party solutions by providing an entry point through a container script, but they only cover the most common cases. I offered simple and reliable solutions, with numerous JavaScript snippets to address various needs.
 
+</details>
 
 <br />
 <br />
 
 
 #### Training 2016-2018
+
+<details>
+<summary>Text display</summary>
+
+<br />
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -364,6 +393,7 @@ As a capstone project, I developed a CV website using Symfony 3, **my very first
 >
 > _Because the server-side logic cannot be copied, you won't be able to see a form processed, access the chat, or play the game. Additionally, the burger icon can't be rendered on this scraped version, which is why the URL points to the Sitemap._
 
+</details>
 
 <br />
 <br />
@@ -374,6 +404,11 @@ As a capstone project, I developed a CV website using Symfony 3, **my very first
 ### Core Competencies
 
 I possess an intuitive and synthetic ability that allows me to detect often invisible frictions in processes, which triggers in me lateral thinking, followed by creativity and innovation.
+
+<details>
+<summary>Detailed display</summary>
+
+<br />
 
 #### Reflection and Intuition
 
@@ -402,6 +437,7 @@ I possess an intuitive and synthetic ability that allows me to detect often invi
 - **Summarizing Information**: Distilling complex information into clear, concise summaries for better understanding.
 - **Training Delivery**: Presenting training content in an engaging and structured manner to enhance knowledge retention.
 
+</details>
 
 <br />
 <br />

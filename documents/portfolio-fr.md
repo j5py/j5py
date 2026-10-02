@@ -15,21 +15,11 @@
 
 ## Résumé Exécutif
 
-**Développeur expert en Tracking et Sécurité, le choix parfait pour ceux qui valorisent curiosité insatiable et apprentissage permanent**.
+<br />
 
-Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une startup, j'ai confirmé une forte préférence pour des rôles principalement techniques. Mon évolution, passant d'emplois non qualifiés à mes derniers rôles, a démontré une forte capacité d'assimilation. Aujourd'hui, après un parcours riche en auto-apprentissage, je privilégie la stabilité professionnelle et vise à contribuer au succès d'une entreprise pour notre réussite mutuelle. Je cible principalement des postes entièrement à distance, tout en reconnaissant la valeur des réunions occasionnelles en personne pour favoriser de meilleures connexions. Je suis également ouvert aux opportunités hybrides.
+**Fondateur, product designer et développeur full-stack, je construis seul un SaaS multiplateforme, la spécification avant le code.**
 
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 64px; width: 64px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height: 64px; width: 64px;" />
-</p>
+Depuis avril 2026, je travaille seul, à plein temps, sur un SaaS B2C multiplateforme. J'ai procédé dans l'ordre qui me semblait le plus logique. D'abord le framework de persuasion, pour m'assurer de savoir parler de mon produit puis de le vendre. Puis des études de marché préliminaires mais poussées, afin de vérifier les perspectives du projet. Et enfin la spécification produit. Rien n'est développé tant que le produit n'est pas entièrement spécifié : chaque écran, chaque règle et chaque parcours utilisateur est raisonné et documenté dans une référence unique. Chaque fonctionnalité passe par une mind map, un flowchart puis un wireframe. Mon critère de complétude : qu'un ingénieur ou un associé puisse rejoindre le projet avec une prise en main immédiate.
 
 <br />
 
@@ -38,17 +28,8 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 1. Une décennie à affiner mes Techniques de Vente en Débits de Boissons avant ma formation initiale en Développement Web
 1. Quelques années d'expérience en Collecte de Données et Support, suivies d'un parcours intensif en Sécurité de l'Information
 1. Face à l'ampleur de mes études en Test d'Intrusion, recentrage sur les Technologies Cloud pour des résultats tangibles
-    1. Depuis mi-avril 2025, Développeur Web pour une plateforme dédiée à la Sécurité IoT, une opportunité enrichissante
-        1. :pushpin: **Dès mi-avril 2026, à la fin du CDD de 12 mois, disponible pour soutenir de nouveaux projets**
-
-<br />
-
-### Perspectives
-
-1. **Motivé** : Full Stack Developer
-2. **Intéressé** : Technical Support Engineer
-3. **Ouvert** : Penetration Tester
-
+    1. De mi-avril 2025 à mi-avril 2026, Développeur Web pour une plateforme dédiée à la Sécurité IoT, une opportunité enrichissante
+        1. :pushpin: **Depuis mi-avril 2026, Fondateur à plein temps d'un SaaS B2C multiplateforme**
 
 <br />
 <br />
@@ -82,6 +63,9 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 
 ##### Cloud et Développement
 
+<details>
+<summary>Affichage du tableau</summary>
+
 <br />
 
 | Achevé / Type | Contenu | Sujet | Client-Side | Server-Side | Workspace |
@@ -97,6 +81,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 | 2024 / Étude | [User Story](https://github.com/j5py/agile/blob/main/.github/ISSUE_TEMPLATE/user-story.md) pour [GitHub Issues (EN)](https://github.com/j5py/agile/issues?q=is%3Aissue+is%3Aclosed) et **ZenHub**, Évalué par [Captures d'Écran](https://github.com/j5py/agile/tree/main/screenshots) en tant que Projet Final du Cours _Cloud Native, DevOps, Agile, and NoSQL_ par **IBM** <br /><br /> Certificat sous **Coursera** via [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> [Notions de Base sur Jasmine (EN)](https://github.com/j5py/notes/blob/main/see/lesson-js-ibm-jasmine-en.txt) pour une Approche Axée Test-Driven Development | Construction de Fondations Solides en Solutions Cloud-native pour Me Renforcer, Appropriation de Concepts Clés en Développement et Pratiques Actuelles | | `CloudComputing`  `DevOps` `NoSQL` `MongoDB` `UnitTests` `Jasmine` `CI/CD` `Docker` `Dockerfile` `Image` `Container` `Tekton` `Pipeline` `Packaging` `Deploying` |`CloudBasedIDE` `IBMCloud` `CLI` `Git` `GitHub` `GitHubIssues` `UserStories` `ZenHub` `Agile` |
 | 2024 / Étude | [JavaScript Éprouvé et Détaillé pour la Collecte de Données Côté Client (EN)](https://github.com/j5py/notes/blob/main/see/facility-js-personal-datacollectionclientside-en.md), Tiré de Mon Expérience et à des Fins de Partage de Connaissances <br /><br /> [Référence Pratique sur le JavaScript Asynchrone (EN)](https://github.com/j5py/notes/blob/main/see/lesson-js-coursera-asynchronous-en.md) Tirée d'une Leçon **Coursera** | Redirection de Mon Attention Vers le Développement, Renforçant Mes Fondations en Pratiquant Ma Compétence Clé, JavaScript, avec un Accent sur le Tracking des Données Côté Client | `Asynchronous` `JavaScript` `AJAX` `XML` `JSON` `API` `HTTP` `StatusCodes` `XHR` `Promises` `FetchAPI` `Binding` `async` `await` `ErrorHandling` `then` `catch` `Axios` `Authentication` `Token` `CORS` `CSRF` `TagManagementSystem` `ThirdPartyAnalytics` `ScriptLoading` `QueryString` `SPA` `Subdomains` `Iframe` `Webview` `Scroll` `ElementDisplay` `StyleAttribute` `localStorage` `cookies` `ABTesting` `RandomGeneration` | | `macOS` `SelfDescriptiveCode ` `VisualStudioCode` `CLI` `Git` `GitHub` `Markdown` |
 
+</details>
 
 <br />
 <br />
@@ -105,6 +90,9 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 #### 2023-2024
 
 ##### Sécurité de l'Information
+
+<details>
+<summary>Affichage du tableau</summary>
 
 <br />
 
@@ -118,6 +106,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 | 2023 / Étude | PDF Complet de _**Last day of bootcamp: Shellshock, a classic.**_ sous [in/projects](https://www.linkedin.com/in/j5py/details/projects/)<br /><br /> Certificats sous **Jedha Bootcamp** via [in/education](https://www.linkedin.com/in/j5py/details/education/) | Bootcamp en Sécurité de l'Information axé Test d'Intrusion couvrant Reconnaissance, Énumération, Évaluation des Réseaux et Systèmes, Exploitation et Mesures Défensives | `GoogleDorking` `WaybackMachine` `GitHub` `S3` `CVE` `ExploitDB` `dnsrecon` `ffuf` `gobuster` `BurpSuite` `DevTools` `HTTP` `JavaScript` `SQLi` `IDOR` `LFI` `RFI` `PathTraversal` `WebShell` `RCE` `SSRF` `XSS` `Phishing` | `TCP/IP` `OSI` `MAC` `ARP` `DHCP` `Ethernet` `IP` `ICMP` `OSPF` `RIP` `TCP` `UDP` `Wireshark` `Nmap` `Netcat` `SSH` `Bash` `Zsh` `ShellScripting` `GNU/Linux` `PowerShell` `CommandPrompt` `PHP` `Python` `Metasploit` `msfconsole` `Msfvenom` `Meterpreter` `DDoS` `MITM` `Spoofing` `Shodan` `Aircrack` `Hydra` `Nessus` `JohnTheRipper` `Sqlmap` `hashcat` `XML` `JSON` `Unicode` `Binary` `Hexadecimal` `FTP` `HTTP` `Telnet` `DNS` `SMTP` `POP3` `IMAP` `SSL` `TLS` | `Windows` `macOS` `VirtualBox` `AWS` `VM` `KaliLinux` `Docker` `Vulhub` `VPNTestLab` `GoogleSlides` `Discord` |
 | 2023 / Étude | Initiative d'Apprentissage _**Shell Scripting Basics**_ Disponible à [j5py/notes...sh...md](https://github.com/j5py/notes/blob/main/see/lesson-sh-coursera-shellscriptingbasics-en.md) <br /><br /> Certificats sous **Coursera** via [in/education](https://www.linkedin.com/in/j5py/details/education/) <br /><br /> Cas d'Usage pour [Mettre à Jour Tous les Dépôts d'un Dossier en Une Commande](https://github.com/j5py/notes/blob/main/see/facility-sh-personal-pulldirectoryrepositories-en.sh) | Cours Préparatoire au Développement Professionnel pour Maîtrise en Linux Shell Scripting, Ligne de Commande, et Vim | | | `CloudBasedVM` `GNU/Linux` `Shell` `Bash` `Zsh` `Vim` `Git` `GitHub` `Markdown` |
 
+</details>
 
 <br />
 <br />
@@ -126,6 +115,9 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 #### 2018-2022
 
 ##### Développement et Données
+
+<details>
+<summary>Affichage du tableau</summary>
 
 <br />
 
@@ -140,6 +132,7 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 | 2019 / Travail | Propriétaire | JavaScript pour Tracking/Collecte de Données, et Consentement Utilisateur | `JavaScript` `DevTools` `DOM` `Network` `cookies` `GoogleTagManager` `GoogleAnalytics` `TagCommander` | | `Windows` `Atom` `GSuite` |
 | 2018 / Étude | [Tout Premier Projet, avec Symfony](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md#projet-final-avec-symfony) | Site CV Multipage PHP/Symfony avec Chat, Jeu et Formulaires | `HTML` `CSS` `jQuery` | `PHP` `Symfony3` `ApacheHTTPServer` `SQL` | `macOS` `Unix` `CLI` `MySQL` `Atom` |
 
+</details>
 
 <br />
 <br />
@@ -153,6 +146,11 @@ Ayant exploré différents rôles au sein d'une agence, d'un éditeur, et d'une 
 <br />
 
 #### Emploi 2025-2026
+
+<details>
+<summary>Affichage du texte</summary>
+
+<br />
 
 ##### Développeur Web Full-Stack de Plateforme
 
@@ -174,7 +172,7 @@ Poursuite de mon évolution avec la plateforme CyberPass de Red Alert Labs facil
 
 ###### Dernier Trimestre
 
-Actuellement en cours, le dernier trimestre a bien débuté dès les premiers jours avec **un retour aux Développement Web** (React, TanStack Query, API et Node.js).
+Le dernier trimestre a marqué un **retour au Développement Web** (React, TanStack Query, API et Node.js).
 
 ###### Troisième Trimestre
 
@@ -194,12 +192,18 @@ Adaptation à un **environnement intriqué employant TypeScript, React et Node.j
 
 En plus de m'adapter à un environnement beaucoup plus large et complexe que ceux précédemment rencontrés, ce qui était à la fois attendu et stimulant, je me suis fié à ma pensée analytique tout en naviguant avec un acompagnement occasionnel dans quelques tâches plus simples pour lesquelles **j'ai structuré la gestion de projet, son flux de modifications et de contrôle qualité**, afin de parfaire la communication et améliorer les temps de résolution.
 
+</details>
 
 <br />
 <br />
 
 
 #### Emploi 2024
+
+<details>
+<summary>Affichage du texte</summary>
+
+<br />
 
 À la suite d'une période de croissance personnelle et d'une prise de conscience accrue, j'ai cherché à explorer mes qualités humaines dans un contexte professionnel. À travers ces expériences, j'ai acquis des éclaircissements sur mes aspirations : **écrire du code me rend heureux et épanoui**. Jusqu'à présent, j'avais principalement exercé dans des postes orientés service qui semblaient souvent en décalage avec mon véritable objectif d'excellence technique. Je suis décidé à transitionner vers le Développement Web, où mes forces techniques pourront enfin briller dans un rôle qui reflète véritablement mes compétences et intérêts.
 
@@ -216,12 +220,18 @@ De septembre à novembre, au sein d'une startup en hyper-croissance, mon experti
 
 En juillet, j'ai entrepris une brève mission freelance en tant que Teacher Assistant à Jedha Bootcamp, où j'ai fourni des connaissances fondamentales aux débutants, expliquant les concepts pour les aider à comprendre des techniques plus avancées présentées par les instructeurs. Puisque **j'avais besoin d'accéder à un poste stable à temps plein** suite à près de 18 mois de développement professionnel, je ne pouvais me consacrer pleinement à un rôle qui nécessitait un investissement personnel et de temps bien plus important qu'un stage à temps partiel.
 
+</details>
 
 <br />
 <br />
 
 
 #### Formation 2023-2024
+
+<details>
+<summary>Affichage du texte</summary>
+
+<br />
 
 ##### Développement Cloud-native 2024
 
@@ -274,12 +284,18 @@ Dès les premières semaines du bootcamp, j'ai immédiatement été confronté �
 
 Ayant géré de manière proactive les tâches administratives pour commencer ma formation le plus rapidement possible, j'ai pu passer les dernières semaines sur Coursera à affiner mes fondations sur _Command Line Basics in Linux_, découvrant _Introduction to Bash Shell Scripting_, et explorant _Practical Vim Editor Commands on Linux_ (anticipant les scénarios où l'interaction avec cet éditeur est la seule option).
 
+</details>
 
 <br />
 <br />
 
 
 #### Emploi 2020-2023
+
+<details>
+<summary>Affichage du texte</summary>
+
+<br />
 
 ![DevTools](https://img.shields.io/badge/DevTools-000000?style=flat&logo=google-chrome&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -301,12 +317,18 @@ Les subtilités des cycles de consentement et le déclenchement de solutions tie
 
 Face à la récurrence des sujets (routines, problèmes courants ou évolutions du secteur) et afin de libérer du temps pour des résolutions plus avancées, mais aussi affiner les réponses et éliminer les erreurs, **j'ai pris l'initiative d'optimiser. Afin de maintenir une collection de réponses texte et de codes JavaScript** visant à une amélioration continue via versioning, j'avais créé un dépôt privé sur un compte GitHub dédié. Bien qu'ayant accumulé les fichiers, cette solution personnelle nécessitait une approche collaborative pour être complétée. J'ai remis les fichiers au Product Owner lors de mon départ.
 
+</details>
 
 <br />
 <br />
 
 
 #### Emploi 2018-2020
+
+<details>
+<summary>Affichage du texte</summary>
+
+<br />
 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FBBA00?style=flat&logo=google-analytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-00796B?style=flat&logo=google-tag-manager&logoColor=white)
@@ -334,12 +356,18 @@ Consulté pour une modification majeure de la page d'accueil de Renault France, 
 
 Les Tag Management Systems facilitent l'orchestration de solutions tierces en fournissant un point d'entrée via un script conteneur, mais ils ne couvrent que les cas les plus courants. Je proposais des solutions simples et fiables, avec de nombreux codes JavaScript pour répondre à divers besoins.
 
+</details>
 
 <br />
 <br />
 
 
 #### Formation 2016-2018
+
+<details>
+<summary>Affichage du texte</summary>
+
+<br />
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -364,6 +392,7 @@ En tant que projet de fin d'études, j'ai développé un site CV avec Symfony 3,
 >
 > _Étant donné que la logique côté serveur ne peut pas être copiée, vous ne pourrez pas bénéficier du traitement des formulaires, accéder à la messagerie, ou jouer au jeu. De plus, l'icône burger ne peut pas être rendue non plus dans cette version scrappée, c'est pourquoi l'URL pointe vers le plan du site._
 
+</details>
 
 <br />
 <br />
@@ -374,6 +403,11 @@ En tant que projet de fin d'études, j'ai développé un site CV avec Symfony 3,
 ## Compétences Fondamentales
 
 Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler des frictions souvent invisibles dans les processus, ce qui provoque en moi une pensée latérale, suivie de créativité et d'innovation.
+
+<details>
+<summary>Affichage détaillé</summary>
+
+<br />
 
 ### Réflexion et Intuition
 
@@ -402,6 +436,7 @@ Je dispose d'une capacité d'intuition et de synthèse me permettant de déceler
 - **Résumé d'Information**: Distiller des informations complexes en résumés clairs et concis pour une meilleure compréhension.
 - **Dispensation de Formation**: Présenter le contenu de la formation de manière engageante et structurée pour améliorer la rétention des connaissances.
 
+</details>
 
 <br />
 <br />

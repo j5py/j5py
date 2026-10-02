@@ -14,6 +14,20 @@ _You might think there's not much here yet, but look closer—the roots run deep
 
 <br />
 
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 64px; width: 64px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="height: 64px; width: 64px;" />
+</p>
+
+<br />
+
 ### :fr: Parcours Technologique
 
 [Consultez les détails complets et structurés de mon parcours](https://github.com/j5py/j5py/blob/main/documents/portfolio-fr.md)
@@ -24,6 +38,9 @@ _You might think there's not much here yet, but look closer—the roots run deep
 
 [Check out the complete and structured details of my journey](https://github.com/j5py/j5py/blob/main/documents/portfolio-en.md)
 
+
+<br />
+<br />
 <br />
 
 
